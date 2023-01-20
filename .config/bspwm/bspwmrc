@@ -1,0 +1,29 @@
+#! /bin/sh
+
+sxhkd &
+# prevent netbeans white screen
+wmname compiz
+
+# dual monitor TODO: avoid hardcoding monitor names i.e. HDMI1, eDPI1..not portable
+if [ -x $HOME/.local/bin/own_script_bspwm_laptop_dual_monitor ];then
+	own_script_bspwm_laptop_dual_monitor
+	bspc monitor HDMI1 -d I II III IV V
+	bspc monitor eDP1 -d VI VII VIII IX X
+else
+	bspc monitor -d I II III IV V VI VII VIII IX X
+fi
+
+# set background
+if $(xdpyinfo | grep -q 1280x800); then
+	feh --bg-center ~/images/wallpapers/thinkpad-x201/green_texture_1_1280x800.jpg
+else
+	feh --bg-center ~/images/wallpapers/workstation/darkpurple_landscape_1_2560x1080.jpg	
+fi
+
+
+bspc config border_width         0
+bspc config window_gap           0
+
+bspc config split_ratio          0.50
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
