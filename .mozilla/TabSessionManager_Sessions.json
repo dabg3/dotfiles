@@ -781,7 +781,7 @@
     "tabsNumber": 24,
     "name": "Implementing Bitcoin",
     "date": 1627314576869,
-    "lastEditedTime": 1627314576869,
+    "lastEditedTime": 1674306311699,
     "tag": [],
     "sessionStartTime": 1627314552713,
     "id": "01e790bf-e740-474b-9c65-3e58ad7c9ad8"
@@ -901,74 +901,12 @@
     "tabsNumber": 3,
     "name": "Tab Session Manager",
     "date": 1674305780543,
-    "lastEditedTime": 1674305780543,
+    "lastEditedTime": 1674306311717,
     "tag": [
       "temp"
     ],
     "sessionStartTime": 1674305589266,
     "id": "0b4fa170-b086-4056-91d9-2b8a52054582"
-  },
-  {
-    "windows": {
-      "1": {
-        "1": {
-          "id": 1,
-          "index": 0,
-          "windowId": 1,
-          "highlighted": true,
-          "active": true,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674304903396,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": -1,
-          "cookieStoreId": "firefox-default",
-          "url": "https://www.linkedin.com/feed/",
-          "title": "Feed | LinkedIn",
-          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACPElEQVRYR2NkGGDAOMD2M8AdwJF8yJmR+f8cRgZGBVo66j/D/wf//zKm/JhrtxdkD9wBnGkH79PacpjHQI74PsteEcUBXGmH/tPS5+hmf5tlB/Y8PATQHcDMzPjHS0/oGUjRtkvvpP7+/c9CTQfidQDI8mNVBp91ZHgEQZZeefLlvVXbBV5qOgKvA/wMhB8vz9SSRfZx5PRrjzddeIsiRkmIDG4HMDMBo6DaEBgF3NAo+PreqvU8799/1EsHhBMh0BHe+sLgRLj14lspaloOMpOgAyiJX2L0EnRAlY8cijltWx6B+bZq/GAMA8tPvPpw/80PgQAjkedBxiIsBnI8X3///c+w68o7/om7nzK9+PgLoRjJRIIO+DrTFsUB3OmHwXyQw6p95eFyRSvuXEywkZTWk+EWQff5v///v8XPvvFt3dk3GHJUc8CvP/8+sbEw8eEKdpAjjOrPfrv98juKI6jmAJjF//8z/Pzx+997TjYmkEUopeaS4y9fpy+4JYrsSKo6YO3ZN09zF9/i//j9L4+iCMeH3aX6jJICbPC4B4o/lSo4Jk0TBzz98POVWvkpMWTDPXSFn63N0ZJCEvsDTEMooUK1EOje/vhPw4YHKIaDCrJP021QxGCJGOYoqjmgdfNDBlgWRQ4FXLlo1AGjITAaAkSHADFVKiVqCJYDlBhOjF4MB3CmHQJ2TBgUiNFMqRpgBwTYMbFD7ZhwpO53YWRknk1rR4As////b+qP2Y57QB4ZPJ1TSoOVXP0AtBqNMCxwApoAAAAASUVORK5CYII="
-        }
-      }
-    },
-    "windowsNumber": 1,
-    "windowsInfo": {
-      "1": {
-        "id": 1,
-        "focused": true,
-        "top": 0,
-        "left": 0,
-        "width": 2560,
-        "height": 1080,
-        "incognito": false,
-        "type": "normal",
-        "state": "normal",
-        "alwaysOnTop": false,
-        "title": "Feed | LinkedIn — Mozilla Firefox"
-      }
-    },
-    "tabsNumber": 1,
-    "name": "Feed | LinkedIn",
-    "date": 1674304903395,
-    "lastEditedTime": 1674304903395,
-    "tag": [
-      "browserExit"
-    ],
-    "sessionStartTime": 1674304525761,
-    "id": "2927292c-6840-418e-8920-abd5c730c064"
   },
   {
     "windows": {
@@ -1549,10 +1487,133 @@
     "tabsNumber": 18,
     "name": "Gitlab CI & vue test vitest",
     "date": 1666484196460,
-    "lastEditedTime": 1666484196460,
+    "lastEditedTime": 1674306311720,
     "tag": [],
     "sessionStartTime": 1666483662032,
     "id": "68df8144-07d2-4af4-a43d-ca1f5f119c58"
+  },
+  {
+    "windows": {
+      "1": {
+        "1": {
+          "id": 1,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2560,
+          "height": 1010,
+          "lastAccessed": 1674306212713,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "about:preferences#home",
+          "title": "Settings",
+          "favIconUrl": "chrome://global/skin/icons/settings.svg"
+        },
+        "2": {
+          "id": 2,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2560,
+          "height": 1010,
+          "lastAccessed": 1674306271850,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 1,
+          "cookieStoreId": "firefox-default",
+          "url": "about:addons",
+          "title": "Add-ons Manager",
+          "favIconUrl": "chrome://mozapps/skin/extensions/extension.svg"
+        },
+        "3": {
+          "id": 3,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2560,
+          "height": 1010,
+          "lastAccessed": 1674306299594,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 2,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 2,
+          "url": "moz-extension://7d49e1ea-feb3-446d-9ed4-56e905ca1fa1/options/index.html#sessions",
+          "title": "Tab Session Manager",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAsUlEQVRYR2M027TpPwMdANCSCaf9/ArRrWKklwNAFmNzBF0dgM0RdHcAuiMwHHDS1xclmsw3byYqhcD0oavf5urKkHn8OMPDL19QzIFFB80dAHLY2x8/cDqCLg4AeR2XI+jmAJgjvHbvRokKujoAZDN6Ghk+DsCVVQjlKqqFAM0cQFQhQIIiktMACWYTpXTUAaMhMBoCoyEwGgKjITAaAgRDgKg6lYqKBqRnhOz+UQcAAMmj6dP9uoyhAAAAAElFTkSuQmCC"
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 0,
+        "left": 0,
+        "width": 2560,
+        "height": 1080,
+        "incognito": false,
+        "type": "normal",
+        "state": "normal",
+        "alwaysOnTop": false,
+        "title": "Tab Session Manager — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Tab Session Manager",
+    "date": 1674306299594,
+    "lastEditedTime": 1674306299594,
+    "tag": [
+      "temp"
+    ],
+    "sessionStartTime": 1674306153942,
+    "id": "92165151-4ba1-49fa-b1bc-44029c893c04"
   },
   {
     "windows": {
@@ -1952,349 +2013,9 @@
     "tabsNumber": 12,
     "name": "PWA - Vue.js",
     "date": 1651746132230,
-    "lastEditedTime": 1651746132230,
+    "lastEditedTime": 1674306311722,
     "tag": [],
     "sessionStartTime": 1651656698217,
     "id": "af691e92-aa4e-4efe-8951-c73c5c1dbfee"
-  },
-  {
-    "windows": {
-      "1": {
-        "1": {
-          "id": 1,
-          "index": 0,
-          "windowId": 1,
-          "highlighted": true,
-          "active": true,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674298768281,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": false,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 3,
-          "cookieStoreId": "firefox-default",
-          "url": "https://support.mozilla.org/mk/questions/1374791",
-          "title": "Export all the bookmarks from a loads of profiles from a script | Firefox Support Forum | Mozilla Support"
-        },
-        "3": {
-          "id": 3,
-          "index": 1,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674298743839,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 4,
-          "cookieStoreId": "firefox-default",
-          "openerTabId": 1,
-          "url": "https://support.mozilla.org/en-US/kb/customizing-firefox-using-autoconfig",
-          "title": "Customizing Firefox Using AutoConfig | Firefox for Enterprise Help"
-        },
-        "4": {
-          "id": 4,
-          "index": 2,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674298743343,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 3,
-          "cookieStoreId": "firefox-default",
-          "openerTabId": 1,
-          "url": "https://support.mozilla.org/en-US/kb/customizing-firefox-using-policiesjson",
-          "title": "Customizing Firefox Using policies.json | Firefox for Enterprise Help"
-        },
-        "5": {
-          "id": 5,
-          "index": 3,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674298718577,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 6,
-          "cookieStoreId": "firefox-default",
-          "url": "https://wiki.mozilla.org/Extension_Manager:Install_Hooks",
-          "title": "Extension Manager:Install Hooks - MozillaWiki",
-          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAAAD////T09Pb29sPDw/Ly8svLy/X19dPT0/6+vp4eHj9/f329vY9PT3GxsYpKSlCQkKzs7PJyckMDAzq6uqvr68BAQFiYmIeHh6FhYVzc3Onp6ccHBwJCQlXV1cjIyMxMTH4+PhlZWWIGD8RAAAAf0lEQVR4nO2QuRKEIBBEh71cdvG+7+P/P1J6LLTUxMDAwE76Aa+AGrpzPIOFeK2jRO90RFmghArcRfgJJJdc0nb/E3w2gomMDCRGqGwLGwVRyScpkY8Ol0feeunrrnF7rCEEvNZCA3ho8ADPvfA1An/ucsI8qElAs8BwjnDnQEZKdwSjSJVJowAAAABJRU5ErkJggg=="
-        },
-        "6": {
-          "id": 6,
-          "index": 4,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674257307877,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 3,
-          "cookieStoreId": "firefox-default",
-          "url": "https://github.com/MrOtherGuy/fx-autoconfig",
-          "title": "MrOtherGuy/fx-autoconfig: Load custom javascript in browser context",
-          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdklEQVRYR71X7VHbQBDdk4zH/ApUEDEmGTMZO6YCcAWQCuJUgKkA0wFUEFJBnAowFSDsZFASOygVxPmFByxfds+SOEl3OhmY3Ix/WNq7fff27YcYLLGqr+v7YMEeA3CAsTXc2gy3u8D5hAP4jENv9H34peixeFb+cmo1x4aVI3S4j8bk1LgQyAQB9YKpfej77iRvQy6AzVqjyxkcFHWcdkRAkJGTkTc41oFQAnCc5lppdX4uUWy8tcHAnd1aLRUbGQDOqzdNu2SfP/bWOiDERjALWv7Pb65skwBAN7dX5zfP7TxyKEDcWhsyEzEAJe2cX+EmFwW4i4Yvl4kD5/AXgPfCjNmR9rqj68F29D8GQIIDBkeyE875h7E3PKNn1Vq9jUC6MRDOLxK2wJqMwYvQcSfeh6nLbPY5AZ7DMQqzS88EAJFqrHyZoZ7PWyPvaz/aTCzByr2TjmP8Hs+BaWUiU0xnl1j5Jgn2IRQCAN7ujDH2PkNxCsAyIZBBY0b9yaQo55+QpXYIoDEh+hRGcQge41xcThUCfE6CHF8P1pnWAEUUTC3HVMlMwMLMclUi5gF/x3T0ywI0OTG9JwFjiD9mGAY4ZZu1eh/VLaeJsMPKtf7U28sON7cayHpqYSYRAMrztwmVIv1jb1Co8ZhuH73XXNRlKmSYyz4C2Ch6eBE7HdNKAHQgVitjqy7iOLKpbjV8lRCZ7sX/0ACK4rdWhM+aBZpagEPLBTFwgtQcKBTaH3nD1jI062x18UcGTrWFiA6bAxz+uh6cPAWErgbQmaIQiUpVmfuqUiwcc+jmjVR54FQdNrKnrkmVNtuMsFXyOXeZBdieF/WB0pIx3kMwPQxLog2nAdBEZVn2Dl6ogz9HB5Dox17Qidtx1DKj0QnuV/xSJaAqmShSiOYKQUTjeOL86lYdBxC2VyRkM3634XsepeZiyXQJEPxOTC02lF05PBS38Y9hT+WEbl8q2ZdGAOmB5AHEQ1nGNBT9WgwUUG4v5MCxQi4mJN1S1nzZOMVgdiiVBDmbBdu66ecxACLhKYfS6EAxltt2P6IdmTjDuPrRe1NG6BgQzoNgN3csj0HQh4lKgGhg6hGatns1m9q7hT5MZGpVebw0AElwqrAZO144MXdQgUKIpjmhWmuEH6P4cQr3XUq1PNEaAchhgcp0zXQgAU6P5nkA/gEVLspa51VkdgAAAABJRU5ErkJggg=="
-        },
-        "7": {
-          "id": 7,
-          "index": 5,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674294553432,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": false,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 6,
-          "cookieStoreId": "firefox-default",
-          "url": "https://www.reddit.com/r/linuxadmin/comments/emcuqm/ansible_versus_bash_script/",
-          "title": "Ansible versus BASH script : linuxadmin",
-          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAolBMVEX/RQAAAAD/QwD/SgD/RgD/RQD+RQD/RQD+RQD+RQD/RAD/SAX/////8u3/RgL/SAD/VQD/VRb+RQD/bjn/uqD/+vj/war/oH3/9/X/gVL/1MT/TQv/qYn/bDb/lG7/XSH/s5j/iV7/287/7eb/9vP/kGf/YSf/39T/o4H/t5z/59//7+n//Pr/5Nr/cTz/fk7/xbD/hFf/rI3/iFz/ybX/u6IhG1R9AAAANnRSTlP/AP8Yp5LjSfvu//////8HBv+w//////////////////////////////////////////////9Dj4ALAAAAuklEQVR4nGWP1xKCMBAAj6MEUlBEih3pzYr+/695wTfNTB52J5nbA8MwFsxyXNex2IKAhGl7MB/PNrUwVzMJAQJWpgFL+8vVMVkH3F4Cm9/z4BhMJDwGFgAi8sMZ0UcgdMCv68c7z7Pb6eQTuhj2hSqlTFV/CdHVYpDtJi03e6muJOjLWr6yMXreZSwILcApihqlmnSskJB5fNcW2zjeDvudHkthXBySrktCwYHC5nSkAn11+v9yP+t/AHV+DLR/t/OSAAAAAElFTkSuQmCC"
-        },
-        "28": {
-          "id": 28,
-          "index": 6,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674295651419,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 7,
-          "cookieStoreId": "firefox-default",
-          "url": "https://stackoverflow.com/questions/366980/what-are-the-differences-between-perl-python-awk-and-sed",
-          "title": "What are the differences between Perl, Python, AWK and sed? - Stack Overflow",
-          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdElEQVRYR+2VS2gTYRDHZ77dNDHpwwpiQVBoo314sFoVexBFEcQHCAVfIIgK9SLFKra1pjattlUEpdbnwYKC+LroQVQUQTzowbZKfcWNVRRFEbVNmibZZMfZxEoJbTemkYC4OSzZ79v//OY/M98ipPjCFMeH/wBJdaB/f+4cCkttJMtbM2pfdMdT3qQBfGvJzUrzi7ccdDwBKKGs9LnZO7p+GEEkDUAP5HMWlBGErhABsvBNa5GyEtdAeDSIMQHQZZCCij3fvEd5PhjE48xrQEKH/l+gOGjd56r+awAe57QTAmAzCKiwOV6f1gNx9sLXkHedCFewDaShtC6j7tXlkSASdoAOF071edWHXO+caLZwflyObxuWf/RF+wEfAWA+B/DJpnCpubbn6XAQCQPoYt5DM3JgIHiR0174S7xbTpPLLHteuvqaphcIVXsIBFncET2aDedl7nJ9jYUYE0DE8nv18sD9C/sJtN1683HWfUKiLVaHcrXfaV/FW65Fn9MdW5F7WWxT/jHAQEPBBq5tn3nvyxt81wYz6m/MW01hbNfHUK89t8JRW05Glf9Tbw2PgTOyD8WR9H2uyqEu/BFApLYB0cO2ZhOiWyJq81u09gnVb3p1UX9znj0cEFcIqDgSD8QDK2jrvShaGWmpENpOW537TMIAgSZ7karSKSBcMCjCIB4J6Jwwya167al9kcX37v1Jdn3Trz1f+L4xJIF7vENxJ6UHggcKZ6tqcDtbup6IzJFs2Xb+3eJnrdY61y1/o32TpsFxXvlqBSrFeuVD0qeAmuwT/SEs1wi2McjkIQFcTHOMhPkJSvR9tO9C3D3gb8xdTiiyBWFHWv5r19BuptMlJu9nTxloVMFGzP8NIqAmvU5pGekQivZJnJe33n6Xty6OdjP2c8ZPJIROtr5DAug0TcrqxvLHauSLGJIrEMNLfBY5f2LVK09SAHimb/LxWsrznDl8LTHIa90awmM+FbskE9221LgVo/zidkAX0oc70FxgVzV1lhSC2RqKWfywhJcmxAaSJW2FxfHmRsIAZ89f4mOevzQb1xpCDrTkTlEDcgkSFAsMlwCJmdbMtJlY+eybkc6I4kYvGmU2uG6kEzcAN2HEkXiv9Holov3vAMSbeey+pDmQMoBEA8e+N9I0GTZhygCSFdhIx/CQMRIY63rKAX4CqDt8MPAaqKIAAAAASUVORK5CYII="
-        },
-        "31": {
-          "id": 31,
-          "index": 7,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674295772291,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 28,
-          "cookieStoreId": "firefox-default",
-          "url": "https://wiki.mozilla.org/WebExtensions/Hacking",
-          "title": "WebExtensions/Hacking - MozillaWiki",
-          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAAAD////T09Pb29sPDw/Ly8svLy/X19dPT0/6+vp4eHj9/f329vY9PT3GxsYpKSlCQkKzs7PJyckMDAzq6uqvr68BAQFiYmIeHh6FhYVzc3Onp6ccHBwJCQlXV1cjIyMxMTH4+PhlZWWIGD8RAAAAf0lEQVR4nO2QuRKEIBBEh71cdvG+7+P/P1J6LLTUxMDAwE76Aa+AGrpzPIOFeK2jRO90RFmghArcRfgJJJdc0nb/E3w2gomMDCRGqGwLGwVRyScpkY8Ol0feeunrrnF7rCEEvNZCA3ho8ADPvfA1An/ucsI8qElAs8BwjnDnQEZKdwSjSJVJowAAAABJRU5ErkJggg=="
-        },
-        "34": {
-          "id": 34,
-          "index": 8,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674295827331,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 31,
-          "cookieStoreId": "firefox-default",
-          "url": "https://linux.die.net/man/1/rsync",
-          "title": "rsync(1) - Linux man page",
-          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACgUlEQVRYR2PMYGb6z0BDIK2rw6DnF8CwvbUFqy2MtHaAZ3UNg1NeLkOpuPioA0ZDYDQEqBMCNknJDBrOLgyc/LxwA98/e8lwdfsmhvPrN2JYQrVsmLtlC4OcqSnD1/cfGd7eucXw/eNnsGUgh3AKizGIKsmD+Y9On2aY7OMDdwjFDlC1tWVIW7MGbPHGylKsvoTZBrMMxJ/g4szw9PIVBoocACpGa85fZLi2YzuKrwiV3GXHT4FDpM3YmMEiPoH8krDhxi1wcCMHKSHLYfIgR3AJCjCcXLyIPAekLF3OoO7ihLMMJ8YhIA/AQIOGGmm5YPqfvwyb6utx1mLEOMAw0J8hbfU6hpd37jKQ5ABCCYcYy2FqQB758vYNabUhKOi+vf/A0GVpRopdWNWCzBJXUWbIZGEmPgq6X75kODp3DsOGqmqKHUAoLWFtkICCbVZoEN48T6zLAtpaGayTU0iLApAD+hwdGG4fPkysPTjVEUpPOEOAWg4gKwRAaWBjZRXDkXlzKQ4BstIAyAEXN25hWJKWTLEDQCWioqkxabkAVoziKjxIcRXIMyBAUqsYVoJVKcgzvH/yhBT7UNSCatKi/QdIL4hApoBcjl63k+oSUCHELcgPrspJKopBFoFaPtGzZjG0GOqD63VSASj1u5dVMBydt4BB39+HtCiAWQZrBYHqdVKiAmb50rQ0Bl5JSfKqY+R6HZSKiS0ZQdnOODwMXpOSVRChB3fMrLkM1kkJDPdPn2W4vGUTw6VNG8CVFShUBGVkGEQUFRnsM7LA7QcQWJaRBi/GySqIsMU3qHkW1N7BIKyC2bCAJbQL61ZjVGCgHGUcEsEwJzqS+NqQ1ARHiXoAZihQsHza9L8AAAAASUVORK5CYII="
-        },
-        "35": {
-          "id": 35,
-          "index": 9,
-          "windowId": 1,
-          "highlighted": false,
-          "active": false,
-          "attention": false,
-          "pinned": false,
-          "status": "complete",
-          "hidden": false,
-          "discarded": false,
-          "incognito": false,
-          "width": 2219,
-          "height": 1010,
-          "lastAccessed": 1674298698394,
-          "audible": false,
-          "mutedInfo": {
-            "muted": false
-          },
-          "isArticle": true,
-          "isInReaderMode": false,
-          "sharingState": {
-            "camera": false,
-            "microphone": false
-          },
-          "successorTabId": 34,
-          "cookieStoreId": "firefox-default",
-          "url": "https://stackoverflow.com/questions/9952000/using-rsync-include-and-exclude-options-to-include-directory-and-file-by-pattern",
-          "title": "linux - Using Rsync include and exclude options to include directory and file by pattern - Stack Overflow",
-          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdElEQVRYR+2VS2gTYRDHZ77dNDHpwwpiQVBoo314sFoVexBFEcQHCAVfIIgK9SLFKra1pjattlUEpdbnwYKC+LroQVQUQTzowbZKfcWNVRRFEbVNmibZZMfZxEoJbTemkYC4OSzZ79v//OY/M98ipPjCFMeH/wBJdaB/f+4cCkttJMtbM2pfdMdT3qQBfGvJzUrzi7ccdDwBKKGs9LnZO7p+GEEkDUAP5HMWlBGErhABsvBNa5GyEtdAeDSIMQHQZZCCij3fvEd5PhjE48xrQEKH/l+gOGjd56r+awAe57QTAmAzCKiwOV6f1gNx9sLXkHedCFewDaShtC6j7tXlkSASdoAOF071edWHXO+caLZwflyObxuWf/RF+wEfAWA+B/DJpnCpubbn6XAQCQPoYt5DM3JgIHiR0174S7xbTpPLLHteuvqaphcIVXsIBFncET2aDedl7nJ9jYUYE0DE8nv18sD9C/sJtN1683HWfUKiLVaHcrXfaV/FW65Fn9MdW5F7WWxT/jHAQEPBBq5tn3nvyxt81wYz6m/MW01hbNfHUK89t8JRW05Glf9Tbw2PgTOyD8WR9H2uyqEu/BFApLYB0cO2ZhOiWyJq81u09gnVb3p1UX9znj0cEFcIqDgSD8QDK2jrvShaGWmpENpOW537TMIAgSZ7karSKSBcMCjCIB4J6Jwwya167al9kcX37v1Jdn3Trz1f+L4xJIF7vENxJ6UHggcKZ6tqcDtbup6IzJFs2Xb+3eJnrdY61y1/o32TpsFxXvlqBSrFeuVD0qeAmuwT/SEs1wi2McjkIQFcTHOMhPkJSvR9tO9C3D3gb8xdTiiyBWFHWv5r19BuptMlJu9nTxloVMFGzP8NIqAmvU5pGekQivZJnJe33n6Xty6OdjP2c8ZPJIROtr5DAug0TcrqxvLHauSLGJIrEMNLfBY5f2LVK09SAHimb/LxWsrznDl8LTHIa90awmM+FbskE9221LgVo/zidkAX0oc70FxgVzV1lhSC2RqKWfywhJcmxAaSJW2FxfHmRsIAZ89f4mOevzQb1xpCDrTkTlEDcgkSFAsMlwCJmdbMtJlY+eybkc6I4kYvGmU2uG6kEzcAN2HEkXiv9Holov3vAMSbeey+pDmQMoBEA8e+N9I0GTZhygCSFdhIx/CQMRIY63rKAX4CqDt8MPAaqKIAAAAASUVORK5CYII="
-        }
-      }
-    },
-    "windowsNumber": 1,
-    "windowsInfo": {
-      "1": {
-        "id": 1,
-        "focused": true,
-        "top": 0,
-        "left": 0,
-        "width": 2560,
-        "height": 1080,
-        "incognito": false,
-        "type": "normal",
-        "state": "normal",
-        "alwaysOnTop": false,
-        "title": "Export all the bookmarks from a loads of profiles from a script | Firefox Support Forum | Mozilla Support — Mozilla Firefox"
-      }
-    },
-    "tabsNumber": 10,
-    "name": "Export all the bookmarks from a loads of profiles from a script | Firefox Support Forum | Mozilla Support",
-    "date": 1674298768281,
-    "lastEditedTime": 1674298768281,
-    "tag": [
-      "browserExit"
-    ],
-    "sessionStartTime": 1674256041493,
-    "id": "d0880559-1cbb-4f3a-b33b-298948cacdfb"
   }
 ]
