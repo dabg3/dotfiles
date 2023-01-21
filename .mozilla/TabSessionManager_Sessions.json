@@ -1,0 +1,2300 @@
+[
+  {
+    "windows": {
+      "1": {
+        "33": {
+          "id": 33,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235252174,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 57,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 33,
+          "url": "file:///home/rationalplayer/library/Java-security-developer-guide.pdf",
+          "title": "Security Developer’s Guide - Java-security-developer-guide.pdf"
+        },
+        "37": {
+          "id": 37,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627231659443,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 33,
+          "cookieStoreId": "firefox-default",
+          "url": "https://bitcoin.org/bitcoin.pdf",
+          "title": "bitcoin.pdf",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCUlEQVQ4jY2TTUvUURSH/98kEIJCkopACQRJEBPKTVAr7WXTok2L8hOEgiVFpTW+MTIjDg4WmkaLkha+ptlkEkYShMFIluaoc+7L/z4tRkbvaNCFZ3HPfTgc7r2/gILlsmuYxQH0qxuoocvol9fRr29iF+KgMoU6wd6NmY+iEtWovqqDSZ7HzEUgNAUNQoOZbEb1Vvoka1GJmn11M9nsNzCzbah4xS7JWlRvJXa+BzPdQrg0kptgj2NSXTsN1AbSV4XEyvOYVCeYbVAZ7NIIbjPtnUusHIlX4LK/CWyqC+k5vY9wJQV6C/t1GPQmYXoOlTjrOWahj0CPXEOipQWU4WSdcHkciZai39zKXfJEk+epwToC9ewi0n3KQz2/lHvSzTT2yyBu9TNYhR6+6rv95wikvwbpOuFhJhoB0KO3MVN3QW0Qpt8j0TLPUwMXdiboKMljxhtxvxZBZZDO40hHCfZTLNdwqN5z9VAdgZmPIu3FOTqOYT9249a/gQtxa0uEy2NgBZf5gYqV77rtxdjZNgK3vYpEipGnR/LY2VbszCPc1gpm5iFm6h4qfsZzpPMkyJ/cR9LvHpB9cjiPenEFSVQTfn/r1fdiJpr8LOjRBrJtRf+FHm3I52E3TKHGjN0hGzlK9vGhg2ktQk+1/DuNAE7WMdP3kWQt0luJRMtQiWrMhwhu6+e+OP8Fp0U7SH6iwCcAAAAASUVORK5CYII="
+        },
+        "54": {
+          "id": 54,
+          "index": 15,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 969,
+          "lastAccessed": 1627234262771,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 55,
+          "cookieStoreId": "firefox-default",
+          "url": "https://stackoverflow.com/questions/11030195/extracting-private-key-in-java",
+          "title": "Extracting private key in java - Stack Overflow",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACgUlEQVRYhe2VMWgUQRSGh9OACBIRBZGgePNmcpeIqLEVrASDgqKoaJdCQSwsLUTe200uFwmxCcJZJGCqpLAKRBRRFNFGLGwUxSaiiHhJbmZ291Lcs8nm1mBAc3uBSH6YZmZ2/m/e+5cRYl3rSlGuN3vYknpt+vL7Vt28XMy2WoQZi8AG4ePMnQNbVx0ioNwZR1CzCOwQpnhCbGiqIU+IDdUCdCTnDEnPIrBF4IB0sakAhtRdRypyvrqyCMUi40hOWgR2BDXjtZ9rijkP5vc4hG/128J9Lu3aLEScB/l+oRWu2rd3f1Mg7O3OnZbUsxjCIryLCjkthBCVgs5ZglmLwJbU58qg3t4UCH6KGwPSxTh8FtVc4MNZIYRwBCfr8/JxKqEMvdzFyM+dYBaZ5Lzz5an4N3QENUt6iEtdLSHCrcUKkR5qyLxczLZagrJFYEPqU4BwvVzMtsbrUb8Eh+ptbOhQv2CENkP6gUFlnCcvNwRQLUCHJfk80XM2pCoBwXDcex49usmhHE3s+W4Rjs36IBsyT2q+L3/IoRx1pKLF2xLUHMKUI32cWWRCD3ocQuhQTTNCW2rmSXEBdoSeuulIfUlWxSJ8MCivVbyOI6m9C5Gf7Q574VLVV/mlaeZSV4vx9AWD6tVvIB7cSMVcCCEswpN6mpU1CC8DguHQg555Dw5yqatFiIUXEfWYI/n1x0D7ltQAHMFDi2puSam5nnhVdQhvDME958HVqF9CauaxmEUmKuS06ZXnA5QDltQji/DzT0CRn+1uyGxkbJxHxsb5b/aGxezuCunTBjU5kpMO1TQPdW7713NWDNCUc5Z+uFzvlxv/H8BKtfYB0hprD2Bdq6VfINSMlLkrxvoAAAAASUVORK5CYII="
+        },
+        "55": {
+          "id": 55,
+          "index": 16,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627234261203,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 61,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.blockchain.com/btc/address/12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX",
+          "title": "Address: 12c6DSiU4Rq3P4ZxziKxzrL5LmMBrzjrJX | Blockchain Explorer",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADlklEQVRYhb2Wz28bRRzFR0qUHxcOhV0jQURFK0EBoXA03nEt9cSVsLuO1AZV7SEluXACcbISz9qzdnKoqpZbhdQD2hMVns3ONig3xH+ARaUiDAqg/JKMZ3fGbjIcWivYXidr4/RJ38sc5n3emxntAjCgdEeOFdzmB1aF30Wu2EVE1C23+a3lhTDnyIlB9xtYedJKIyJ+sVxxhAiX7bFcvl1whXlmxo4jx/KklbYI//O/xh1T4TzvCvNMmnie/Elf8+Mm/l4hwhiZcazkPSPCFSKMkTQRN3lUE9b34pMXnLz7ToigQMTcUE0Mmzyiib8KRMwNZJ57sPcSqoifEOGt/wuACH+KXP64sBGejw+wJcdXK/KS5YqvLCL2hzXPEx4iImxEmrO5+79ODXgIz5Qn4RsWaX6NiHiCXNE8/dz5U0T473lXPLC+E+/ENkqvyZlMuf5KZCOOnFitiEsWaX2JXLF3wvNjiAgLPRTvf+7I6ai9XlvYfPlcls4cr+hy7EqplYR2UNOK7I9UiS8n1/nFTE6OR22wRuUMcpv3UIW3G2lZrvgNEfHN6gZ/KzJdZmtc/fSHC4rhLSkmrSkmran6ZhLozhjI2I1ZiIMqxExCzKSGAwFxWE0Vg/UrqJHo14hFxdsF9/ALVAlXSlS+l9uSkWeszj9MqKa3phq0qhpUqAaVqkGlYtCqovuzIF0M7kA7OGoDdIwd1LQy++xDm18AfRqJk7ht2jVHSta7AyAOdiLNOxoJqpodlPs1Eidx9Pg7QMNB/SSAzkZYDZb5olbgb/YYn544aupAw/84sQEwkxpmQrPDn3sAYiXuHMXwHXDZDiHEwfYgEBAzGQEQ2/i5+baS3YTg3ZycSBUCE2LGXxiATrmib5pAd44/UprdmIeYnXghRwPg7SSMjfme23vx9uNJWAyvajgUZwWQMHyhGv5V8JE72e8VAQ03rkHMdkcOoPu7qu5f62t83ISc1NbCBYiD5ugA/KZqPlo4MXlPE6XwOrTZ3ggA9l41veuxjds6n5NTKcxuQBy0hgbQaSuRpTdA5v5w/wIAAADt+k2I2f6gAIpB9xOmf3No47YyOTmVwnwRYnYYF0AxvEN1zl8Ema3hk3frss1vQcwOTgNQDHqgmvTWyIzbSq7L6XSRLUH7WRPRAN6hkvWXgO5E/g2NRJkSX4a4cdC9ruj0QDEfLZ+ZcVvJdTmdLgcfd6+rhjf3uv7jwMn/Bflbft7II0EMAAAAAElFTkSuQmCC"
+        },
+        "57": {
+          "id": 57,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235356398,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 95,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 33,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/KeyPairGenerator.html#generateKeyPair()",
+          "title": "KeyPairGenerator (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "61": {
+          "id": 61,
+          "index": 17,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627234417573,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 72,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 61,
+          "url": "https://en.bitcoin.it/wiki/Protocol_documentation#Addresses",
+          "title": "Protocol documentation - Bitcoin Wiki",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABoUlEQVQ4jd2SMWgTYRTHHw7ybXJYiKCYZhFu0MXNQJcbgqJDYqdrx4KNOJlJdCleJ88KMYJ2kECXDEJLTelkRWqjEARRDB1UKJRcGygf9HpJjdz9HAKfVpx0EPrgDQ/+/Pi/93/CP5YcMkCvVqAwcgYRwff9nyIR8vm8mW3bRkRIpVIDQNz5SPfZKPtLE7xbesyNm7e4XbwKaFqtFiKCbdsAaK2xLAulFJ7nIUnUIapmCctp4s01tNa0g21m7lyjXx+jUqkgIogI7WCbRqNxACjdhXHCcprde8dgq8nn51NcOHt64HXxMhfPnzSAer1ugMVicQAIy2nCBycIy2mS/h7xxis2vq6zvPKaR2Mpho8fwXEclFKUSiVc1zUwAOnVCuzNnqP/YY5YB+zeFZK303z60mZ46KgRO46DZVmmzYFjHRDVrvB9fZ6ku0O8uUYSdXi5+gYRQSkFgO/7ZhXXdX+LcatJb/k635oP6b9/CvOXGM2eQkTI5XIAJo1f7R/4g1gHdBfGiapZeDHJ3JP7iAie5xlxJpMxjv74SH9T/x/wA0bYR5m/nzwyAAAAAElFTkSuQmCC"
+        },
+        "71": {
+          "id": 71,
+          "index": 7,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235191396,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 75,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 33,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/KeyFactory.html#generatePrivate(java.security.spec.KeySpec)",
+          "title": "KeyFactory (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "72": {
+          "id": 72,
+          "index": 18,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627234437181,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 85,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.novixys.com/blog/generate-bitcoin-addresses-java/",
+          "title": "How to Generate Bitcoin Addresses in Java | Novixys Software Dev Blog",
+          "favIconUrl": "data:image/png;base64,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"
+        },
+        "75": {
+          "id": 75,
+          "index": 8,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235001152,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 79,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 71,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/PrivateKey.html",
+          "title": "PrivateKey (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "79": {
+          "id": 79,
+          "index": 9,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235006894,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 93,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 71,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/interfaces/ECPrivateKey.html#getS()",
+          "title": "ECPrivateKey (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "81": {
+          "id": 81,
+          "index": 12,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627314530177,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 92,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 33,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/javax/crypto/KeyGenerator.html",
+          "title": "KeyGenerator (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "85": {
+          "id": 85,
+          "index": 19,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627234306779,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 86,
+          "cookieStoreId": "firefox-default",
+          "url": "https://en.bitcoin.it/wiki/Private_key",
+          "title": "Private key - Bitcoin Wiki",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABoUlEQVQ4jd2SMWgTYRTHHw7ybXJYiKCYZhFu0MXNQJcbgqJDYqdrx4KNOJlJdCleJ88KMYJ2kECXDEJLTelkRWqjEARRDB1UKJRcGygf9HpJjdz9HAKfVpx0EPrgDQ/+/Pi/93/CP5YcMkCvVqAwcgYRwff9nyIR8vm8mW3bRkRIpVIDQNz5SPfZKPtLE7xbesyNm7e4XbwKaFqtFiKCbdsAaK2xLAulFJ7nIUnUIapmCctp4s01tNa0g21m7lyjXx+jUqkgIogI7WCbRqNxACjdhXHCcprde8dgq8nn51NcOHt64HXxMhfPnzSAer1ugMVicQAIy2nCBycIy2mS/h7xxis2vq6zvPKaR2Mpho8fwXEclFKUSiVc1zUwAOnVCuzNnqP/YY5YB+zeFZK303z60mZ46KgRO46DZVmmzYFjHRDVrvB9fZ6ku0O8uUYSdXi5+gYRQSkFgO/7ZhXXdX+LcatJb/k635oP6b9/CvOXGM2eQkTI5XIAJo1f7R/4g1gHdBfGiapZeDHJ3JP7iAie5xlxJpMxjv74SH9T/x/wA0bYR5m/nzwyAAAAAElFTkSuQmCC"
+        },
+        "86": {
+          "id": 86,
+          "index": 20,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627232337175,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 87,
+          "cookieStoreId": "firefox-default",
+          "url": "https://asecuritysite.com/encryption/bit_keys",
+          "title": "Bitcoin key generation",
+          "favIconUrl": "data:image/png;base64,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"
+        },
+        "87": {
+          "id": 87,
+          "index": 21,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627231657867,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 86,
+          "cookieStoreId": "firefox-default",
+          "url": "https://contacaratteri.it/",
+          "title": "Conta caratteri e spazi, conta parole, conta lettere e altro...",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEZElEQVRYhcVX7U9TVxy+kY/8F37VAPeUTsgwSyThS3tPy0tBes6lwJCXhE10JGayDBwD96psaxi6ZRinEJYylzkTxweYGXM43+rEDbf5YQzEVdRBkZa29z77wOWOQu9tYRpP8ktzb07v8/zO7+X5HUFIYWUUyOnZhfJ2kcr1hPIBQvkEoTxEKIdmIe3dgEjl+uxCeXtGgZyeyrdNl8vlShPtLJ9I3EconxIpDxPK1VXAa03V9kwRiftEO8t3uVxpmwK32txbiUP2EsqDJoDJLEgcstdqc2/dCPYW0cnyCeV+Qln0f4BrxqKEcr/oZPmCIGxJCm6h3EaoPLkREFHiECW2bIb75EkL5TZTEsuey5OixMzirIEyZNrdsDhk5JRUIa+0BnmlNdhRVAlRSrhfJVSe1E7CIOYS96fi8c6yGniaW9HV24eh0TGM3/4D0/cCuBu4j59u3ELNq29ClFji/0vcvy4nXC5XGnEwr1nMRYnBQjleansXY9dv4tHcPGKxGNauSDSK1q5jyLK7jXPCwbxx1SHaWb5ZtosSQ15ZDXr6BvE4FIoDVFUVqqrqz+GlCJra3zc+Aa06RLsWiowCOV2r88TglMPikNFzehCL4XAc0Nj1mzgxeBbDFy8jqp3GwuNF1LZ0JCMAInFfRoGcLlglzzZC2bTZ5v2dR7GwuKh7PBOYRWvXceSWVCPTVo6c4ipcHf8VAHD/wSPsfvlgcgKUTVslzzaBOCrqtO6VcOMu3oCfJ37XPX/4zzwa297RQ7Py233Kh9ErfnR2f4bnS19MXrqUh4mjok4gEh8gBu1VlBj2dxzR466qKk6eOQers2Ld3tySamQ7K5Bld6fgPQehXCUSHxDIsogYxInh3MionmSBBw/hqHslIcBKI0qljFfZhEDiVS3ug7tYAybv3tO9Hxm7AsvGAJJZSDArvd17DyK8tAQAUBQFx/q/NKnvzZkpgcbWt/Xki8ViOPxx71MhYBiCpvYjOoFoLIZDH37ypAmEDJNQlBhqWzr1BFQUBd2nfE+awIRhGYoSQ2FDM+aCC3oSXvKPY0eRxzTbzSU5zrQyNGhEosSQU1yJa7cm9DCEwmHsbX/PEPi5Ig+aD3fho5MDyC2pMie60ojMWnGW3Y23ek4gEo3qJO78OYXalg5YHDIybeXItJVDpBz2PfvQf/Y85oILCC9F0O79NMkJaK04mRgVVDZi/Lc7cQo4H1zAt9//iO7TPng//wJfDX2HmcBsnCr6f7mNF8prjQmsiFEqclx94A38NfN3HICqqlAUBYqirHm/LEhtHxyHtdBjROA/OU5lIMmSGNz7XsMPV29gbj64bhBRVRVLkQhmArP4ZngU7qYWk2RMMJCkOpLtLNuD6gOH0NXbjzNDI7hw6RqGL15G39fn8frRHjjrm5FTXGmuCYlGso0MpaLEkGlbVjyrswLZThlZdremgsbkkw6l2trUWJ6apTCWr5B4lheT+Jx4RlczfT3Ty+nq9TSv5/8CV+gexccfr1sAAAAASUVORK5CYII="
+        },
+        "89": {
+          "id": 89,
+          "index": 22,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627232349597,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 86,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.google.com/search?client=firefox-b-d&q=ecdsa+jca",
+          "title": "ecdsa jca - Cerca con Google",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD/ElEQVRYhb2XS2xUZRTHZ9NgUerKnQtRkJ0S7YOF1og4gnZB0mGgtQsUK8agC6PWhKCBhKLFQhNgMW2xEDNhWgm0YoU2A0h9dGKRmCGkDVpA7cPcmT6ZO+M8zv/vgplx7qtzh4cnOZt7vzm//3l83/3G4bBpJEtI1opIO4AhAFMAEmkPAxgSkXaSNSRL7Ma1A14hIh0AYrRpAKIicpjk8jsBLxaRZgApu2ATIUkR2UuyuFD44wCu3C7YREiQ5DK78KcAhMwCpSbGqHq/4Oz7bzO8YS0V5yoqL1YwXO3kzHtvUT3aytTYn1YiFJIr7WRugKcmxzm38yMqa8qpvFC2sK8p59wnHzI1OW4lwrwSJO83K3usv5ehVyrzg3UeqnqO/5zvt2qHcSZEpFm/WD12pGBwrs837TRth4g06bNfoZ/2WH+vZeDp+hpG2g4w9s0JxnpPMtJ2kNNv1mrh+xpJwGoekppWiEiHpucTYwy9/KwBPFW3nvGLAdOgJBkfGmR4UxVvHvzcck1OFdoz2T+oP2QiLe8Y4DPbXiPm5/MGhhrJu4YkAagklzhI1mpeREeZ7FvEuYZHsvDwhrWU2WlbgQu0jY70+Z01ud7IpL+ISX8R1QMPMbSulLEzp+4FnCLicQAYyn2Y+sWZFZD0FzF+YimZTN4TAQACDgBTuQ+TAw9rBKQu1ywYZPXuiG0/f0WbCADFASChEXB2kUaA/L7jrgnw/qhBEUD8fxXQcSFuKiCsEaBvQXDTXRPQFTBUQDEO4aWXNALGBp5gQgofwmuKGARcGDbMQMBkG36ahZ/qXcpnfOvZPeovWIBvMGEQMDmrPZpFxOPgrTvcf6qi1xn1F7Ox+2mW+qpZ6qums/t1hmMztuE3Y6CrRdXAN3uiZkvdDpIlADRv9w/uysIzXtf3AWfj+Y/iRIpsOBYzZN9p7L9K8oHMx+hw7suJiMLK468aRFR9vZUD4xct4VdnbnBLj4+rd89p4K4WldG4ofytuZ/j5elPZNZO3xgwCMi469t32Xypg11XT/Or387wUNDLN/zbWeZzsdRXzYojDXz+s7+yAr4f0d5r01v/Mf2FZK8+oy9HeixF5PMy72ZW7vvZsPfT2e8xu5ItBnBZv7jvjx9YebyuYAEVnW62BXsMcAC/krzP6l64LH1x1NikGuL2n/azvNNlC7713Mccnh41g/9N8lFTeI6IlWYiyFvDeXT4JLd9t4vreuq5qsvNik43nd1bWH92Bw8FvRyZvmb20wz8yQXhukoETSPdhqXLvnDmJiKKRaRJvzsKBCdEZA+tem63Gul/xGoBYFVEWqnfandiJJeQ3CgiHgABAAqAeNoVAAER8ZB0M3PC2bB/AWPggEEQxzX+AAAAAElFTkSuQmCC"
+        },
+        "92": {
+          "id": 92,
+          "index": 13,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235185540,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 81,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 33,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/Signature.html",
+          "title": "Signature (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "93": {
+          "id": 93,
+          "index": 10,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235007819,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 94,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 71,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/spec/ECPrivateKeySpec.html",
+          "title": "ECPrivateKeySpec (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "94": {
+          "id": 94,
+          "index": 11,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235027934,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 93,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 71,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/spec/ECPublicKeySpec.html",
+          "title": "ECPublicKeySpec (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "95": {
+          "id": 95,
+          "index": 3,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235325135,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 96,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 57,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/spec/AlgorithmParameterSpec.html",
+          "title": "AlgorithmParameterSpec (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "96": {
+          "id": 96,
+          "index": 4,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235571219,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 97,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 95,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/spec/ECParameterSpec.html",
+          "title": "ECParameterSpec (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "97": {
+          "id": 97,
+          "index": 5,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235375079,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 100,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 95,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/spec/ECGenParameterSpec.html",
+          "title": "ECGenParameterSpec (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "98": {
+          "id": 98,
+          "index": 23,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627314576873,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 89,
+          "cookieStoreId": "firefox-default",
+          "url": "https://en.bitcoin.it/wiki/Secp256k1",
+          "title": "Secp256k1 - Bitcoin Wiki",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABoUlEQVQ4jd2SMWgTYRTHHw7ybXJYiKCYZhFu0MXNQJcbgqJDYqdrx4KNOJlJdCleJ88KMYJ2kECXDEJLTelkRWqjEARRDB1UKJRcGygf9HpJjdz9HAKfVpx0EPrgDQ/+/Pi/93/CP5YcMkCvVqAwcgYRwff9nyIR8vm8mW3bRkRIpVIDQNz5SPfZKPtLE7xbesyNm7e4XbwKaFqtFiKCbdsAaK2xLAulFJ7nIUnUIapmCctp4s01tNa0g21m7lyjXx+jUqkgIogI7WCbRqNxACjdhXHCcprde8dgq8nn51NcOHt64HXxMhfPnzSAer1ugMVicQAIy2nCBycIy2mS/h7xxis2vq6zvPKaR2Mpho8fwXEclFKUSiVc1zUwAOnVCuzNnqP/YY5YB+zeFZK303z60mZ46KgRO46DZVmmzYFjHRDVrvB9fZ6ku0O8uUYSdXi5+gYRQSkFgO/7ZhXXdX+LcatJb/k635oP6b9/CvOXGM2eQkTI5XIAJo1f7R/4g1gHdBfGiapZeDHJ3JP7iAie5xlxJpMxjv74SH9T/x/wA0bYR5m/nzwyAAAAAElFTkSuQmCC"
+        },
+        "100": {
+          "id": 100,
+          "index": 6,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235376632,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 97,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 95,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/AlgorithmParameters.html",
+          "title": "AlgorithmParameters (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        },
+        "102": {
+          "id": 102,
+          "index": 14,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2288,
+          "height": 1010,
+          "lastAccessed": 1627235354451,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 92,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 33,
+          "url": "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/security/AlgorithmParameterGenerator.html",
+          "title": "AlgorithmParameterGenerator (Java SE 11 & JDK 11 )",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABPUlEQVRYhe2WrY6DQBCA+yBIFBJVV1lViUKikBge40TtifMkvAbhAQgvABbaBdIjBJhTd2FhdrsLvZ9edpJxDPPN7PztCk2H39SdAlAACkDko+vxBJVlS+llf9gO0Hg+DFkOa6WLYrgeT/IApWFCF8WrHc+l8Xw5AMz5SAh0USykMhALgNvLmTIcshwqy5YqrNIwF/8ZCUHrYgEwEvJl1CcplIa5usIry6Yg2iDkA9SOSxnIRo5pG4RUFrgA07T1SbrZ+WcLT2XeFUyA99e3hwAUms7NKhMAe68fBfiuJ5h3wt8qwkLTqdE7ZPmmNmw8nwoIq6sFwNxoJIQ7SjFlDSIsGHQUT9M2FZExzFpeteOisMxtyIKQlXsZ5K7j2nGhT9LVztsgvHsXCB0kl/1B+iARrZfnOMkUgAL41wAfDF8FSzLvypAAAAAASUVORK5CYII="
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 0,
+        "left": 0,
+        "width": 2560,
+        "height": 1080,
+        "incognito": false,
+        "type": "normal",
+        "state": "normal",
+        "alwaysOnTop": false,
+        "title": "Secp256k1 - Bitcoin Wiki — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 24,
+    "name": "Implementing Bitcoin",
+    "date": 1627314576869,
+    "lastEditedTime": 1627314576869,
+    "tag": [],
+    "sessionStartTime": 1627314552713,
+    "id": "01e790bf-e740-474b-9c65-3e58ad7c9ad8"
+  },
+  {
+    "windows": {
+      "1": {
+        "1": {
+          "id": 1,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674305653511,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 2,
+          "cookieStoreId": "firefox-default",
+          "url": "https://discourse.mozilla.org/t/in-which-file-are-stored-an-add-on-settings-options/26064",
+          "title": "In which file are stored an add-on settings/options? - Add-ons / Add-on Support - Mozilla Discourse",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEUAAAD///8AAAAcHBypqam/v7+np6dTU1NCQkKAgIC0tLQSEhLT09MWFha8vLzQ0NBcXFxHR0cNDQ13d3fe3t7s7OydnZ0EBARgYGAiIiJwcHCUlJTY2NgxMTH8/PzFxcWkpKQKCgo1NTVKSkq2tralIJOkAAAAJXRSTlP///7/////////////////////////////////////////////3VO6CgAAAKRJREFUeJztkskWwiAMRZOqVQttHeo8D///jeaVVOLpojt10Sw4F7gECFBHJL0QhW3lva9Om4yZi5zIFQLZIgpL6TPP6pZ5kCuIqsJUR0KURwX/FtwOyXlMtK9n5rrGHPIq3RSwEjgAztgsCinOAECqB+DSFmQHoqHABDD6urAOlwvCvRFurUIFgdkFAQOm1EaQZ/gQTIZnk6G0wj/8qJ8LSUe8AIqRBW52tPWOAAAAAElFTkSuQmCC"
+        },
+        "2": {
+          "id": 2,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674305780543,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 3,
+          "cookieStoreId": "firefox-default",
+          "url": "moz-extension://7d49e1ea-feb3-446d-9ed4-56e905ca1fa1/options/index.html#sessions",
+          "title": "Tab Session Manager",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAsUlEQVRYR2M027TpPwMdANCSCaf9/ArRrWKklwNAFmNzBF0dgM0RdHcAuiMwHHDS1xclmsw3byYqhcD0oavf5urKkHn8OMPDL19QzIFFB80dAHLY2x8/cDqCLg4AeR2XI+jmAJgjvHbvRokKujoAZDN6Ghk+DsCVVQjlKqqFAM0cQFQhQIIiktMACWYTpXTUAaMhMBoCoyEwGgKjITAaAgRDgKg6lYqKBqRnhOz+UQcAAMmj6dP9uoyhAAAAAElFTkSuQmCC"
+        },
+        "3": {
+          "id": 3,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674305599392,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 2,
+          "cookieStoreId": "firefox-default",
+          "url": "about:newtab",
+          "title": "New Tab",
+          "favIconUrl": "chrome://branding/content/icon32.png"
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 0,
+        "left": 0,
+        "width": 2560,
+        "height": 1080,
+        "incognito": false,
+        "type": "normal",
+        "state": "normal",
+        "alwaysOnTop": false,
+        "title": "Tab Session Manager — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 3,
+    "name": "Tab Session Manager",
+    "date": 1674305780543,
+    "lastEditedTime": 1674305780543,
+    "tag": [
+      "temp"
+    ],
+    "sessionStartTime": 1674305589266,
+    "id": "0b4fa170-b086-4056-91d9-2b8a52054582"
+  },
+  {
+    "windows": {
+      "1": {
+        "1": {
+          "id": 1,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674304903396,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.linkedin.com/feed/",
+          "title": "Feed | LinkedIn",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACPElEQVRYR2NkGGDAOMD2M8AdwJF8yJmR+f8cRgZGBVo66j/D/wf//zKm/JhrtxdkD9wBnGkH79PacpjHQI74PsteEcUBXGmH/tPS5+hmf5tlB/Y8PATQHcDMzPjHS0/oGUjRtkvvpP7+/c9CTQfidQDI8mNVBp91ZHgEQZZeefLlvVXbBV5qOgKvA/wMhB8vz9SSRfZx5PRrjzddeIsiRkmIDG4HMDMBo6DaEBgF3NAo+PreqvU8799/1EsHhBMh0BHe+sLgRLj14lspaloOMpOgAyiJX2L0EnRAlY8cijltWx6B+bZq/GAMA8tPvPpw/80PgQAjkedBxiIsBnI8X3///c+w68o7/om7nzK9+PgLoRjJRIIO+DrTFsUB3OmHwXyQw6p95eFyRSvuXEywkZTWk+EWQff5v///v8XPvvFt3dk3GHJUc8CvP/8+sbEw8eEKdpAjjOrPfrv98juKI6jmAJjF//8z/Pzx+997TjYmkEUopeaS4y9fpy+4JYrsSKo6YO3ZN09zF9/i//j9L4+iCMeH3aX6jJICbPC4B4o/lSo4Jk0TBzz98POVWvkpMWTDPXSFn63N0ZJCEvsDTEMooUK1EOje/vhPw4YHKIaDCrJP021QxGCJGOYoqjmgdfNDBlgWRQ4FXLlo1AGjITAaAkSHADFVKiVqCJYDlBhOjF4MB3CmHQJ2TBgUiNFMqRpgBwTYMbFD7ZhwpO53YWRknk1rR4As////b+qP2Y57QB4ZPJ1TSoOVXP0AtBqNMCxwApoAAAAASUVORK5CYII="
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 0,
+        "left": 0,
+        "width": 2560,
+        "height": 1080,
+        "incognito": false,
+        "type": "normal",
+        "state": "normal",
+        "alwaysOnTop": false,
+        "title": "Feed | LinkedIn — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 1,
+    "name": "Feed | LinkedIn",
+    "date": 1674304903395,
+    "lastEditedTime": 1674304903395,
+    "tag": [
+      "browserExit"
+    ],
+    "sessionStartTime": 1674304525761,
+    "id": "2927292c-6840-418e-8920-abd5c730c064"
+  },
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "id": 2,
+          "index": 17,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2222,
+          "height": 1010,
+          "lastAccessed": 1666484142917,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 19,
+          "cookieStoreId": "firefox-default",
+          "url": "https://download.geofabrik.de/",
+          "title": "Geofabrik Download Server"
+        },
+        "3": {
+          "id": 3,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2222,
+          "height": 1010,
+          "lastAccessed": 1666484144329,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 4,
+          "cookieStoreId": "firefox-default",
+          "url": "https://docs.gitlab.com/ee/ci/#gitlab-cicd",
+          "title": "GitLab CI/CD | GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4T7VTwVGDUBDdDZCrWIE4E7iaEtKBUoEUACNWYKxAnFAAVhDtgBLiNWRG7ACvAbLuJ/kTPmAmF//hD7P75v3d9x5YBQ4BHyJaIcIKdphqxvYDo7wQdXkotMy6HN/CiGZEMEXEqeihJGiD99+UMOlbA0K859vrY04SDMH7tf4EBC7vNOd1bpQVCD6R64CwbNdVAqIfPc7MOpiEBKMXBQi7R22xiSrfLninC9lTCHjnVyPOQhbMquvxV5tA07bXLGxe+nbEmjwMEkiQaJb+ZNYmMOJN2kjbIT9OQPCtx2vrHOkq38lZi6uOjVToi+zyPIKjDooGeBDqFElX4J6NSDDX4vXzEEnpO8Lep79tlB2iVNNLV8a5iXFlLNk+RdiOBt03qWBb3UOUOTxo/k+UJavwnQNiAYEY866dtgbDKeX7ne1LebJc5oLjPXyqwPb4n/CaFQAStjgZQv4CqY2q1XXgRO0AAAAASUVORK5CYII="
+        },
+        "4": {
+          "id": 4,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666300266912,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 3,
+          "url": "https://docs.gitlab.com/ee/ci/quick_start/#ensure-you-have-runners-available",
+          "title": "Get started with GitLab CI/CD | GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4T7VTwVGDUBDdDZCrWIE4E7iaEtKBUoEUACNWYKxAnFAAVhDtgBLiNWRG7ACvAbLuJ/kTPmAmF//hD7P75v3d9x5YBQ4BHyJaIcIKdphqxvYDo7wQdXkotMy6HN/CiGZEMEXEqeihJGiD99+UMOlbA0K859vrY04SDMH7tf4EBC7vNOd1bpQVCD6R64CwbNdVAqIfPc7MOpiEBKMXBQi7R22xiSrfLninC9lTCHjnVyPOQhbMquvxV5tA07bXLGxe+nbEmjwMEkiQaJb+ZNYmMOJN2kjbIT9OQPCtx2vrHOkq38lZi6uOjVToi+zyPIKjDooGeBDqFElX4J6NSDDX4vXzEEnpO8Lep79tlB2iVNNLV8a5iXFlLNk+RdiOBt03qWBb3UOUOTxo/k+UJavwnQNiAYEY866dtgbDKeX7ne1LebJc5oLjPXyqwPb4n/CaFQAStjgZQv4CqY2q1XXgRO0AAAAASUVORK5CYII="
+        },
+        "5": {
+          "id": 5,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666300768129,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 4,
+          "url": "https://docs.gitlab.com/ee/ci/yaml/",
+          "title": "`.gitlab-ci.yml` keyword reference | GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4T7VTwVGDUBDdDZCrWIE4E7iaEtKBUoEUACNWYKxAnFAAVhDtgBLiNWRG7ACvAbLuJ/kTPmAmF//hD7P75v3d9x5YBQ4BHyJaIcIKdphqxvYDo7wQdXkotMy6HN/CiGZEMEXEqeihJGiD99+UMOlbA0K859vrY04SDMH7tf4EBC7vNOd1bpQVCD6R64CwbNdVAqIfPc7MOpiEBKMXBQi7R22xiSrfLninC9lTCHjnVyPOQhbMquvxV5tA07bXLGxe+nbEmjwMEkiQaJb+ZNYmMOJN2kjbIT9OQPCtx2vrHOkq38lZi6uOjVToi+zyPIKjDooGeBDqFElX4J6NSDDX4vXzEEnpO8Lep79tlB2iVNNLV8a5iXFlLNk+RdiOBt03qWBb3UOUOTxo/k+UJavwnQNiAYEY866dtgbDKeX7ne1LebJc5oLjPXyqwPb4n/CaFQAStjgZQv4CqY2q1XXgRO0AAAAASUVORK5CYII="
+        },
+        "6": {
+          "id": 6,
+          "index": 3,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666300877148,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 5,
+          "url": "https://docs.gitlab.com/ee/ci/examples/index.html",
+          "title": "GitLab CI/CD Examples | GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4T7VTwVGDUBDdDZCrWIE4E7iaEtKBUoEUACNWYKxAnFAAVhDtgBLiNWRG7ACvAbLuJ/kTPmAmF//hD7P75v3d9x5YBQ4BHyJaIcIKdphqxvYDo7wQdXkotMy6HN/CiGZEMEXEqeihJGiD99+UMOlbA0K859vrY04SDMH7tf4EBC7vNOd1bpQVCD6R64CwbNdVAqIfPc7MOpiEBKMXBQi7R22xiSrfLninC9lTCHjnVyPOQhbMquvxV5tA07bXLGxe+nbEmjwMEkiQaJb+ZNYmMOJN2kjbIT9OQPCtx2vrHOkq38lZi6uOjVToi+zyPIKjDooGeBDqFElX4J6NSDDX4vXzEEnpO8Lep79tlB2iVNNLV8a5iXFlLNk+RdiOBt03qWBb3UOUOTxo/k+UJavwnQNiAYEY866dtgbDKeX7ne1LebJc5oLjPXyqwPb4n/CaFQAStjgZQv4CqY2q1XXgRO0AAAAASUVORK5CYII="
+        },
+        "7": {
+          "id": 7,
+          "index": 4,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666300873535,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 6,
+          "url": "https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/npm.gitlab-ci.yml",
+          "title": "lib/gitlab/ci/templates/npm.gitlab-ci.yml · master · GitLab.org / GitLab · GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEX8oyYAAAD8oib9oyb8oiX8pCX/ny/3ny/7pCX8oib/nyf6oyj7oif9oib6oib7oyf7nyv8oyf/oiP/oib6oyT/nyX8pij6pihr8DpPAAAAGHRSTlP/AO+fYL8QIJDfIHCAz6BAQLBQUHAwX3DS72w5AAAA3UlEQVR4nI2TWxaDIAxEB6rUqn3Y5/532hACQlDa+dED17l4jDA+twdfisgaA0dg1PtxjYELMGlgAuYEnIBeAz1gI3AHxVUG4CoAGSpH59d8LQEMawcZyEG1BDCsHOEhX0sAHbFyyENUC/MK96WDDXxMhCP6HLLEtYEAMWzHOohtLx2WNrDAtoEf238gFvGNd9JjbgNvuKbjNMI8W8DHf6yGhIbOD0y3Y7FdmurN73Fep9qYod4fwgQJUGm4PgeUJtQXQKGRegUkTarXgGjW+gowjjRZfQ3Qb+h/tzxfPKgFDFLlWywAAAAASUVORK5CYII="
+        },
+        "8": {
+          "id": 8,
+          "index": 5,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666384600016,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 6,
+          "url": "https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Nodejs.gitlab-ci.yml",
+          "title": "lib/gitlab/ci/templates/Nodejs.gitlab-ci.yml · master · GitLab.org / GitLab · GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEX8oyYAAAD8oib9oyb8oiX8pCX/ny/3ny/7pCX8oib/nyf6oyj7oif7oyf9oib6oib8oyf/oiP7nyv/oib6oyT/nyX8pij6pijItC9zAAAAGHRSTlP/AO+fYL8QIJDfIHCAQM+gsFBAUHAwX3DTMcOwAAAA3UlEQVR4nI2T7RaCIBBEB1IytbLv93/TlmVBWJSaP3rgOhePK4zP/cGXIrLGwBEY9X5cY+AKTBqYgDkBJ6DXQA/YCNxAcZUBOAtAhsrR+TVfSwDD2kEGclAtAQwrR3jI1xJAR6wc8hDVwrzCfelgAx8T4Yg+hyxxbSBADNuxDmLbS4elDSywbeDH9h+IRXzjnfSY28Abruk4jTDPFvDxH6shoaHzA9PtWGyXpnrze1zWqTZmqPeHMEECVBquzwGlCfUFUGikXgFJk+o1IJq1vgKMI01WXwP0G/rfLc8XQ90FDGReLfMAAAAASUVORK5CYII="
+        },
+        "9": {
+          "id": 9,
+          "index": 6,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666378515407,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 3,
+          "url": "https://docs.gitlab.com/runner/",
+          "title": "GitLab Runner | GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4T7VTwVGDUBDdDZCrWIE4E7iaEtKBUoEUACNWYKxAnFAAVhDtgBLiNWRG7ACvAbLuJ/kTPmAmF//hD7P75v3d9x5YBQ4BHyJaIcIKdphqxvYDo7wQdXkotMy6HN/CiGZEMEXEqeihJGiD99+UMOlbA0K859vrY04SDMH7tf4EBC7vNOd1bpQVCD6R64CwbNdVAqIfPc7MOpiEBKMXBQi7R22xiSrfLninC9lTCHjnVyPOQhbMquvxV5tA07bXLGxe+nbEmjwMEkiQaJb+ZNYmMOJN2kjbIT9OQPCtx2vrHOkq38lZi6uOjVToi+zyPIKjDooGeBDqFElX4J6NSDDX4vXzEEnpO8Lep79tlB2iVNNLV8a5iXFlLNk+RdiOBt03qWBb3UOUOTxo/k+UJavwnQNiAYEY866dtgbDKeX7ne1LebJc5oLjPXyqwPb4n/CaFQAStjgZQv4CqY2q1XXgRO0AAAAASUVORK5CYII="
+        },
+        "10": {
+          "id": 10,
+          "index": 7,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666384539463,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://git.dbws.cloud/admin/gitaly_servers",
+          "title": "Gitaly Servers · Admin Area · GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAvVBMVEUAAADiQyn8bSb8oybiQyv8bSbiRCnjRSj5aCbhQivfTy/lSCj6aib8byXfTy/7pCXfQyvsUyjiQynxXCj/byfiQyn8bSb8nyb/fy/8mybkQir7bSfiRCnwWyf8gSbfRib8bif8oib7bCX/ny/9bibsUir8bSX3dy/nRy/8oiX8iSb2ZCftVSj8cyb6ayjkRSXiQyr8fib3ny//oiPqUCj6ayT9oib7oyfhQyvtVij8oib5byb/nyf3bCbiRikbK/LuAAAAP3RSTlMA////n++///9wIP//YBCQQP/v/yDf3/8Q/2CAoP//ULDvkBDPYL8gIGD/////cDCQ/yBQ/3DPQID/3/8g/1AV7KvsAAABNUlEQVR4nH2S13qDMAyFLVMyGlKSjpA0Lc1o0mZ17/X+j1XZsvAAci5A6MjnFx8Ird4V3V25vUOA29D3ehcA7XCgDfBRPJwBNMKBBsAx13+AOioRAHqWUGKcq56J1cMhAwnIoFg9HDDokInFFUsMc0jH3lPtMzTBrKlXVDpwxL0HS6gWrrno7BtoLsREbvp17udGTkQspWxVjry00IoFXlCXzdLxE3J0ggoJVumo4zphSYVMtq6/TUx7KcamcjEcj7oTQ8NwMByPGpwK8Vo8yUS/TZ/jdQDKQhDjxks5pi/TtRT5/WvruMvf7mbAvTzLcq6vkV9oRjusI9Sa/NnQ+8UUZjdSfhSNdm68xTxm5ONE7sWzUvajKPXjWasp2dNVpY16+lL+20+dL8QcMem83kc9vweNfx5CEZ41WbiiAAAAAElFTkSuQmCC"
+        },
+        "11": {
+          "id": 11,
+          "index": 8,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2222,
+          "height": 1010,
+          "lastAccessed": 1666484145893,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 12,
+          "cookieStoreId": "firefox-default",
+          "url": "https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html#child--parent-pipelines",
+          "title": "Pipeline architecture | GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4T7VTwVGDUBDdDZCrWIE4E7iaEtKBUoEUACNWYKxAnFAAVhDtgBLiNWRG7ACvAbLuJ/kTPmAmF//hD7P75v3d9x5YBQ4BHyJaIcIKdphqxvYDo7wQdXkotMy6HN/CiGZEMEXEqeihJGiD99+UMOlbA0K859vrY04SDMH7tf4EBC7vNOd1bpQVCD6R64CwbNdVAqIfPc7MOpiEBKMXBQi7R22xiSrfLninC9lTCHjnVyPOQhbMquvxV5tA07bXLGxe+nbEmjwMEkiQaJb+ZNYmMOJN2kjbIT9OQPCtx2vrHOkq38lZi6uOjVToi+zyPIKjDooGeBDqFElX4J6NSDDX4vXzEEnpO8Lep79tlB2iVNNLV8a5iXFlLNk+RdiOBt03qWBb3UOUOTxo/k+UJavwnQNiAYEY866dtgbDKeX7ne1LebJc5oLjPXyqwPb4n/CaFQAStjgZQv4CqY2q1XXgRO0AAAAASUVORK5CYII="
+        },
+        "12": {
+          "id": 12,
+          "index": 9,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666301038074,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 11,
+          "url": "https://docs.gitlab.com/ee/ci/pipelines/pipeline_architectures.html#child--parent-pipelines",
+          "title": "Pipeline architecture | GitLab",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXklEQVQ4T7VTwVGDUBDdDZCrWIE4E7iaEtKBUoEUACNWYKxAnFAAVhDtgBLiNWRG7ACvAbLuJ/kTPmAmF//hD7P75v3d9x5YBQ4BHyJaIcIKdphqxvYDo7wQdXkotMy6HN/CiGZEMEXEqeihJGiD99+UMOlbA0K859vrY04SDMH7tf4EBC7vNOd1bpQVCD6R64CwbNdVAqIfPc7MOpiEBKMXBQi7R22xiSrfLninC9lTCHjnVyPOQhbMquvxV5tA07bXLGxe+nbEmjwMEkiQaJb+ZNYmMOJN2kjbIT9OQPCtx2vrHOkq38lZi6uOjVToi+zyPIKjDooGeBDqFElX4J6NSDDX4vXzEEnpO8Lep79tlB2iVNNLV8a5iXFlLNk+RdiOBt03qWBb3UOUOTxo/k+UJavwnQNiAYEY866dtgbDKeX7ne1LebJc5oLjPXyqwPb4n/CaFQAStjgZQv4CqY2q1XXgRO0AAAAASUVORK5CYII="
+        },
+        "13": {
+          "id": 13,
+          "index": 10,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2222,
+          "height": 1010,
+          "lastAccessed": 1666484196462,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 14,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.npmjs.com/package/@vue/test-utils",
+          "title": "@vue/test-utils - npm",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXLAAD////ZRETfYGDPEhLrm5vQGRlZCeKaAAAAJ0lEQVR4nGPAApyUgEAFyFAUBAIhNIZxIJTBYEg+A2gFQxLICnQAABRFB2yfkuDYAAAAAElFTkSuQmCC"
+        },
+        "14": {
+          "id": 14,
+          "index": 11,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2222,
+          "height": 1010,
+          "lastAccessed": 1666484150660,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 15,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 13,
+          "url": "https://test-utils.vuejs.org/api/",
+          "title": "API Reference | Vue Test Utils",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAKlBMVEUAAABBuIM1SV45YGdF0Is/o3xAuIMqf38/t4M7eG9AuIM/uIRAuINAtYLWQ/QwAAAADnRSTlMA//+qC/+1BkT/+XD9/4OGpesAAAC1SURBVHicldDNCcJAEAXgiYKIpzzRg+hB38WTYAuWYAfWYAW2YAe2YAm2YEW+zGbXHQiIc8jPC9+8sPZ7ALzJo9mYPOjFGmBObs1G5A5ouwAkzXTRY+umCrTkmUwSawUyK3J/Je8usinCAxkXKUjFfWk3s97o9ig/W68wO7mRWPSBlizJc16RzVek4lKai0tpNxN91VzCKdXCTS0GAjfhqF/AJgQyQdgUuIVAS+K7NVEMBH/MBwypF9gujM2JAAAAAElFTkSuQmCC"
+        },
+        "15": {
+          "id": 15,
+          "index": 12,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666384689192,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 14,
+          "url": "https://github.com/vuejs/test-utils/",
+          "title": "vuejs/test-utils: Vue Test Utils for Vue 3",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdklEQVRYR71X7VHbQBDdk4zH/ApUEDEmGTMZO6YCcAWQCuJUgKkA0wFUEFJBnAowFSDsZFASOygVxPmFByxfds+SOEl3OhmY3Ix/WNq7fff27YcYLLGqr+v7YMEeA3CAsTXc2gy3u8D5hAP4jENv9H34peixeFb+cmo1x4aVI3S4j8bk1LgQyAQB9YKpfej77iRvQy6AzVqjyxkcFHWcdkRAkJGTkTc41oFQAnCc5lppdX4uUWy8tcHAnd1aLRUbGQDOqzdNu2SfP/bWOiDERjALWv7Pb65skwBAN7dX5zfP7TxyKEDcWhsyEzEAJe2cX+EmFwW4i4Yvl4kD5/AXgPfCjNmR9rqj68F29D8GQIIDBkeyE875h7E3PKNn1Vq9jUC6MRDOLxK2wJqMwYvQcSfeh6nLbPY5AZ7DMQqzS88EAJFqrHyZoZ7PWyPvaz/aTCzByr2TjmP8Hs+BaWUiU0xnl1j5Jgn2IRQCAN7ujDH2PkNxCsAyIZBBY0b9yaQo55+QpXYIoDEh+hRGcQge41xcThUCfE6CHF8P1pnWAEUUTC3HVMlMwMLMclUi5gF/x3T0ywI0OTG9JwFjiD9mGAY4ZZu1eh/VLaeJsMPKtf7U28sON7cayHpqYSYRAMrztwmVIv1jb1Co8ZhuH73XXNRlKmSYyz4C2Ch6eBE7HdNKAHQgVitjqy7iOLKpbjV8lRCZ7sX/0ACK4rdWhM+aBZpagEPLBTFwgtQcKBTaH3nD1jI062x18UcGTrWFiA6bAxz+uh6cPAWErgbQmaIQiUpVmfuqUiwcc+jmjVR54FQdNrKnrkmVNtuMsFXyOXeZBdieF/WB0pIx3kMwPQxLog2nAdBEZVn2Dl6ogz9HB5Dox17Qidtx1DKj0QnuV/xSJaAqmShSiOYKQUTjeOL86lYdBxC2VyRkM3634XsepeZiyXQJEPxOTC02lF05PBS38Y9hT+WEbl8q2ZdGAOmB5AHEQ1nGNBT9WgwUUG4v5MCxQi4mJN1S1nzZOMVgdiiVBDmbBdu66ecxACLhKYfS6EAxltt2P6IdmTjDuPrRe1NG6BgQzoNgN3csj0HQh4lKgGhg6hGatns1m9q7hT5MZGpVebw0AElwqrAZO144MXdQgUKIpjmhWmuEH6P4cQr3XUq1PNEaAchhgcp0zXQgAU6P5nkA/gEVLspa51VkdgAAAABJRU5ErkJggg=="
+        },
+        "16": {
+          "id": 16,
+          "index": 13,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666396700920,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://vuejs.org/guide/scaling-up/testing.html#unit-testing",
+          "title": "Testing | Vue.js",
+          "favIconUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8c3R5bGU+CiAgICAuc3QwIHsgZmlsbDogIzQyQjg4MzsgfQogICAgLnN0MSB7IGZpbGw6ICMzNTQ5NUU7IH0KICA8L3N0eWxlPgogIDxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik03OC44LDEwTDY0LDM1LjRMNDkuMiwxMEgwbDY0LDExMGw2NC0xMTBDMTI4LDEwLDc4LjgsMTAsNzguOCwxMHoiIC8+CiAgPHBhdGggY2xhc3M9InN0MSIgZD0iTTc4LjgsMTBMNjQsMzUuNEw0OS4yLDEwSDI1LjZMNjQsNzZsMzguNC02Nkg3OC44eiIgLz4KPC9zdmc+Cg=="
+        },
+        "17": {
+          "id": 17,
+          "index": 14,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666385557426,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 16,
+          "url": "https://vitest.dev/guide/",
+          "title": "Getting Started | Guide | Vitest",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACG0lEQVRYR92WsU/CQBTG79EymBgSB6KgcTQKswmwGRcGZzfHLhqNMhs1ccfJxKTGyf/AwcWZLqzgqlHUQQcHExIo593J1Rau17vG0MSboLy77/fe+95RQAkvSFgf/Q8A3FhadyF9Z5Zb2glpbxC1rO8UMX2eCAAXTwSAiJ8T4W1elYlXwJ/9xCswKo4QfjfL7azuWMcyIRF/I0Kzo2IYo2a60lrVgYgLwFwfuQBvmaX2tSxOG2C89OHHq5hSC6DvFFyEIBWZOQsYWGb5/jIqVhPg58JRWSrZ03MYwO7VdDbtZnbo57r1chImQEwGrlN4RgB5GYRMvGbP8yQ6dauzwAD2LnJV04ASP1QG4RfGzeKi20OP/mdG92sK1h66IkCfOPuZAIDXgn177jiFUt53FYh+Y3kDgXHjFwvLXiTutYAfoAvhOiuHGKVO+X5d8TEA+qBm5wMekFWi1yjcAkCV7jOeWiZsIjIlwRWWOY8SToEqBBnLT+LjDMK4b1baaV1xYQVG20GdT5xyRCpB5z8whrL3AJIEZtFDm1HDiYwpvQeGnvBaIoIQu52IewuY20Vx0grwDTU7F7j9CIQUmmXuW1HxSjfhgZ0bAK8lm18xhK64UgV4MlEQccS1AGhwGERccW2A4T0h/UOK6vmoGZU8MD7fQaPx33XFY1VA1RNhY/cnFfgd0fwHuW1mzqxXxZeUcaxYLVDNTiUucYBv11bYIampz60AAAAASUVORK5CYII="
+        },
+        "18": {
+          "id": 18,
+          "index": 15,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666385126023,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 17,
+          "url": "https://www.typescriptlang.org/docs/handbook/triple-slash-directives.html#-reference-types-",
+          "title": "TypeScript: Documentation - Triple-Slash Directives",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA6lBMVEUxeMb///8wd8UzecYyeMYnccMxeMYwd8U0esYudsUweMYibsKgweSwy+ktdcQxd8Uwd8UrdMQocsP9/f4kb8LQ4fIpc8Mqc8QAAABIh8wmccNlmtRNis1Rjc/P3/Fzo9jD2O7a5/Ty9vt8qdrB1u4hbcG70uuArNv8/f42e8dhl9NaktHu9Po6fchfltKNtN/K3PBChMp4ptmRt+CewOSvy+n7/P7M3fH3+fwYaL+ZvOL4+v20zurj7fesyOiDrtxXkdDs8vlonNWIsd70+Pzn7/jc6PU+gMmkw+YcasBsntbq8fmLs9/f6vaM1ZFSAAAATnRSTlP////////+/v///v////+E8P////////8A//////////////////////////////////////////////////////////////////////8hlG9IAAABmElEQVR4nN1T6VrCMBDMbpK2qZrSUkCQ+5RD5RS87xvf/3XcYgvFr/oAzo+2yc5ONtsdtu+k0DZZAkwDU84+cyiMdhKBoWmjw1LMtG0jKW4YaFIYg9cvMNFEZmBieihCQZP9QbAp/J+A2wtaCiE220hbMTDkQrk5V8UStxWElz0qlvJHeqUVQGQntXk5QyjPaw9e7rj9sbh4vDvXUQ4vtGGN2dk4/MrQIZHCslxtPgFcNauZjhgAfJ40lsOmCk+gupRCfwYwbTEsHEA6XXqTLZ3n8SK53APY3bG4JALc+G6Xu+si4wShXgbEuOznshZJbxAR6KMBcAhQ7UuRSGDCe38GEklXJE8iILMkrwzhFOojTf3+SUCm3a6QuQkxxn5MYq2g88WWVL6uA3R8i6YynEuxueZgelDqX1Ohx55gdmSrdR+8HnV5kaZH26WRRzs0TqQg3GKNLglQf+0qAwProbESUcVeL6/pEsq6rXQa96MCxVNkXmJ8/w/X84I4MbIF35eaU76zsr+xOgQF50HrgnnjFudkXrL/F0S2HZgmXWrYAAAAAElFTkSuQmCC"
+        },
+        "19": {
+          "id": 19,
+          "index": 16,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1666400309801,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 17,
+          "url": "https://vitest.dev/config/",
+          "title": "Configuring Vitest | Vitest",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACG0lEQVRYR92WsU/CQBTG79EymBgSB6KgcTQKswmwGRcGZzfHLhqNMhs1ccfJxKTGyf/AwcWZLqzgqlHUQQcHExIo593J1Rau17vG0MSboLy77/fe+95RQAkvSFgf/Q8A3FhadyF9Z5Zb2glpbxC1rO8UMX2eCAAXTwSAiJ8T4W1elYlXwJ/9xCswKo4QfjfL7azuWMcyIRF/I0Kzo2IYo2a60lrVgYgLwFwfuQBvmaX2tSxOG2C89OHHq5hSC6DvFFyEIBWZOQsYWGb5/jIqVhPg58JRWSrZ03MYwO7VdDbtZnbo57r1chImQEwGrlN4RgB5GYRMvGbP8yQ6dauzwAD2LnJV04ASP1QG4RfGzeKi20OP/mdG92sK1h66IkCfOPuZAIDXgn177jiFUt53FYh+Y3kDgXHjFwvLXiTutYAfoAvhOiuHGKVO+X5d8TEA+qBm5wMekFWi1yjcAkCV7jOeWiZsIjIlwRWWOY8SToEqBBnLT+LjDMK4b1baaV1xYQVG20GdT5xyRCpB5z8whrL3AJIEZtFDm1HDiYwpvQeGnvBaIoIQu52IewuY20Vx0grwDTU7F7j9CIQUmmXuW1HxSjfhgZ0bAK8lm18xhK64UgV4MlEQccS1AGhwGERccW2A4T0h/UOK6vmoGZU8MD7fQaPx33XFY1VA1RNhY/cnFfgd0fwHuW1mzqxXxZeUcaxYLVDNTiUucYBv11bYIampz60AAAAASUVORK5CYII="
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 0,
+        "left": 0,
+        "width": 2560,
+        "height": 1080,
+        "incognito": false,
+        "type": "normal",
+        "state": "normal",
+        "alwaysOnTop": false,
+        "title": "@vue/test-utils - npm — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 18,
+    "name": "Gitlab CI & vue test vitest",
+    "date": 1666484196460,
+    "lastEditedTime": 1666484196460,
+    "tag": [],
+    "sessionStartTime": 1666483662032,
+    "id": "68df8144-07d2-4af4-a43d-ca1f5f119c58"
+  },
+  {
+    "windows": {
+      "1": {
+        "3": {
+          "id": 3,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651666884666,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 29,
+          "cookieStoreId": "firefox-default",
+          "url": "http://demo3.sql2app.it/sql2app/url.php?t=002231536181cf5723a69fe7f785b15ac9d84d64",
+          "title": "Web Application",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACdUlEQVQ4T2NkwAH+///PyPDmmwRYWoTrBSMj439sShnRBb+ev2n6Yvq60k/7znj8/fqDFyTPxMP1kd/ReLtEdnA3t77qOWQ9KAY8aV/U8mLy6sr///8xYXUYI9NfmZLIJsmiqCaYPNyAJ+0LWp5NXFWNy0vI4jIVsbVSBZEtIDGwASBnX/UqPoFuMzAcwPr+AyHYK4wQhzGyMP822DvRlE1d6SLYgFvJLavebjkSCpbkYGMAaQQFGVAhmM3w9x/IFAYGZkaG/z9+gQ0RDXVepDKlNJ4RFNrHlQM+/oMGGKu0KAOfgRoDw5+/DP9+/gYr/vXyHQObuBDD1wu3GH59+AwWYxXge2N+c7Uo4//XXyUPagc8g/lROiuE4eXiHQzc2ooMor52DF/fvWf4ff0hA4eaHMPne08YPm46DA8O+9u7hMEG7NH0gxsg6m3N8O3mQwZmDnYGHl0Vht9fvzEwAYPq47kbDPzGmgwvNx6EG+ByZ48Q2Au7lbzf//74jR8kw6cow8AK1MzKwsLAqCLFwPbxO8PX+08ZWHi4GL7++gE0/BHDX2CAsAoLvHa7vUEMHIink+qXP1m/LwIciKDQ5uNmYGJmYmBiBwbo95/AwAMGJiggP39j+PMPpJ2BQS7SY4HxtOpEsAEfLt422mmfeAoYjcxw9+FhMDIz//Y6vMSQV1v+KjwhXeqYU3ehdXYjMQaYNOeUaRXEdsNcDNdzoWtOzdnW2XX///5lxWYQyGaTxqxq/YJ4sGYMA0AC76/c1D/bt6To4c7DXj/ffxQBiXEAA0zew2arQUFcj7C26lVkwzFyI7Lk/48fhUBJkVFA4D0urwEAJDz2ETQTxUQAAAAASUVORK5CYII="
+        },
+        "29": {
+          "id": 29,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651666745108,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 35,
+          "cookieStoreId": "firefox-default",
+          "url": "https://stackoverflow.com/questions/55782173/loading-content-dynamically-from-json-file-to-html-page-through-js",
+          "title": "javascript - Loading content dynamically from JSON file to HTML page through JS - Stack Overflow",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdElEQVRYR+2VS2gTYRDHZ77dNDHpwwpiQVBoo314sFoVexBFEcQHCAVfIIgK9SLFKra1pjattlUEpdbnwYKC+LroQVQUQTzowbZKfcWNVRRFEbVNmibZZMfZxEoJbTemkYC4OSzZ79v//OY/M98ipPjCFMeH/wBJdaB/f+4cCkttJMtbM2pfdMdT3qQBfGvJzUrzi7ccdDwBKKGs9LnZO7p+GEEkDUAP5HMWlBGErhABsvBNa5GyEtdAeDSIMQHQZZCCij3fvEd5PhjE48xrQEKH/l+gOGjd56r+awAe57QTAmAzCKiwOV6f1gNx9sLXkHedCFewDaShtC6j7tXlkSASdoAOF071edWHXO+caLZwflyObxuWf/RF+wEfAWA+B/DJpnCpubbn6XAQCQPoYt5DM3JgIHiR0174S7xbTpPLLHteuvqaphcIVXsIBFncET2aDedl7nJ9jYUYE0DE8nv18sD9C/sJtN1683HWfUKiLVaHcrXfaV/FW65Fn9MdW5F7WWxT/jHAQEPBBq5tn3nvyxt81wYz6m/MW01hbNfHUK89t8JRW05Glf9Tbw2PgTOyD8WR9H2uyqEu/BFApLYB0cO2ZhOiWyJq81u09gnVb3p1UX9znj0cEFcIqDgSD8QDK2jrvShaGWmpENpOW537TMIAgSZ7karSKSBcMCjCIB4J6Jwwya167al9kcX37v1Jdn3Trz1f+L4xJIF7vENxJ6UHggcKZ6tqcDtbup6IzJFs2Xb+3eJnrdY61y1/o32TpsFxXvlqBSrFeuVD0qeAmuwT/SEs1wi2McjkIQFcTHOMhPkJSvR9tO9C3D3gb8xdTiiyBWFHWv5r19BuptMlJu9nTxloVMFGzP8NIqAmvU5pGekQivZJnJe33n6Xty6OdjP2c8ZPJIROtr5DAug0TcrqxvLHauSLGJIrEMNLfBY5f2LVK09SAHimb/LxWsrznDl8LTHIa90awmM+FbskE9221LgVo/zidkAX0oc70FxgVzV1lhSC2RqKWfywhJcmxAaSJW2FxfHmRsIAZ89f4mOevzQb1xpCDrTkTlEDcgkSFAsMlwCJmdbMtJlY+eybkc6I4kYvGmU2uG6kEzcAN2HEkXiv9Holov3vAMSbeey+pDmQMoBEA8e+N9I0GTZhygCSFdhIx/CQMRIY63rKAX4CqDt8MPAaqKIAAAAASUVORK5CYII="
+        },
+        "35": {
+          "id": 35,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651743211862,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 36,
+          "cookieStoreId": "firefox-default",
+          "url": "https://v2.vuejs.org/v2/guide/class-and-style.html",
+          "title": "Class and Style Bindings — Vue.js",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAYFBMVEUAAABBuIM1SV5Bt4I2V2JCvIU+nHpAuYMAf380S19BuIJCuYE1TV88j3U1UGIzZmY7fG9BuIJBuIJItpFAs4FBuINAt4NAuINGuH9CtoU3XmVBuII/qn5AuII2UmFBuINXRBg7AAAAIHRSTlMA////Rhf/dgLsv03//48F/976B/+Xa9gSKv/u//j//rLjCL0AAADcSURBVHictVJZEoMwFELtvrfu+/1v2QbsJGr0p1N+5AHyxkT8jj4w2IUGN0k3DjsaPQ58BtRCBcSlH4AnSUTxaPwjaUT5aQRFO8p34E7SSWXjfrzEXbDXTg0PGpsNHw+nANi6FW7B9vupL46N9RsKL3sY04rRAoPTOKHp5J6npEp+NSsAzm6F+Hl8JRKvxr96CoDYVojF01utKSdhmJDU83vXi5eLd4FBKkdIPYGhYrEAKK1fegPQP/JB5PftkiUfufx8MTBULPvIjJ+tBFix5qMIgmI1gLZd9/+BN5IUBd2YpdtmAAAAAElFTkSuQmCC"
+        },
+        "36": {
+          "id": 36,
+          "index": 3,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651667506996,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 35,
+          "cookieStoreId": "firefox-default",
+          "url": "https://github.com/filrak/vue-offline",
+          "title": "filrak/vue-offline: Offline states and storage for Vue PWA",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdklEQVRYR71X7VHbQBDdk4zH/ApUEDEmGTMZO6YCcAWQCuJUgKkA0wFUEFJBnAowFSDsZFASOygVxPmFByxfds+SOEl3OhmY3Ix/WNq7fff27YcYLLGqr+v7YMEeA3CAsTXc2gy3u8D5hAP4jENv9H34peixeFb+cmo1x4aVI3S4j8bk1LgQyAQB9YKpfej77iRvQy6AzVqjyxkcFHWcdkRAkJGTkTc41oFQAnCc5lppdX4uUWy8tcHAnd1aLRUbGQDOqzdNu2SfP/bWOiDERjALWv7Pb65skwBAN7dX5zfP7TxyKEDcWhsyEzEAJe2cX+EmFwW4i4Yvl4kD5/AXgPfCjNmR9rqj68F29D8GQIIDBkeyE875h7E3PKNn1Vq9jUC6MRDOLxK2wJqMwYvQcSfeh6nLbPY5AZ7DMQqzS88EAJFqrHyZoZ7PWyPvaz/aTCzByr2TjmP8Hs+BaWUiU0xnl1j5Jgn2IRQCAN7ujDH2PkNxCsAyIZBBY0b9yaQo55+QpXYIoDEh+hRGcQge41xcThUCfE6CHF8P1pnWAEUUTC3HVMlMwMLMclUi5gF/x3T0ywI0OTG9JwFjiD9mGAY4ZZu1eh/VLaeJsMPKtf7U28sON7cayHpqYSYRAMrztwmVIv1jb1Co8ZhuH73XXNRlKmSYyz4C2Ch6eBE7HdNKAHQgVitjqy7iOLKpbjV8lRCZ7sX/0ACK4rdWhM+aBZpagEPLBTFwgtQcKBTaH3nD1jI062x18UcGTrWFiA6bAxz+uh6cPAWErgbQmaIQiUpVmfuqUiwcc+jmjVR54FQdNrKnrkmVNtuMsFXyOXeZBdieF/WB0pIx3kMwPQxLog2nAdBEZVn2Dl6ogz9HB5Dox17Qidtx1DKj0QnuV/xSJaAqmShSiOYKQUTjeOL86lYdBxC2VyRkM3634XsepeZiyXQJEPxOTC02lF05PBS38Y9hT+WEbl8q2ZdGAOmB5AHEQ1nGNBT9WgwUUG4v5MCxQi4mJN1S1nzZOMVgdiiVBDmbBdu66ecxACLhKYfS6EAxltt2P6IdmTjDuPrRe1NG6BgQzoNgN3csj0HQh4lKgGhg6hGatns1m9q7hT5MZGpVebw0AElwqrAZO144MXdQgUKIpjmhWmuEH6P4cQr3XUq1PNEaAchhgcp0zXQgAU6P5nkA/gEVLspa51VkdgAAAABJRU5ErkJggg=="
+        },
+        "37": {
+          "id": 37,
+          "index": 4,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651744594330,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 38,
+          "cookieStoreId": "firefox-default",
+          "url": "https://blog.logrocket.com/building-pwa-vue/",
+          "title": "Building a PWA with Vue.js - LogRocket Blog",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADSElEQVRYR+2WTUhUURTH//fNjDPjR5C6ENoIRRuhXUWIJTg6OjJEaITYolYRSEFBfqdMjjqEELitTUoUSvahMzpkKRW0CQwEN9FKNwqhoDYzzbu3c9+ojCnz3pup3HTeat68d87v/c89/3vZnZqQwAEG+w+QiQLKVvM4S7+HabeACY7eCbdWudkThKLY0qJIC4AJgb5gDRVUE0VJgpbaSRCFaQjTAEIwdA1XIDt/t+7L36IYaJoFY+b6YRqgsCgPtx+e2bfQ3boQYhFzKpgG6J2ohELXviFb4aVWmAhTAIfyrWh5XEFfr4JzgbmZZWTZ7SgpLdhB6qybxM+I8TaYAmh+VIbDRdm09OJo9byBI09FbFMBp4noH6/VIJa+rmHw5ifDGhgHoC/uD1VRYgWCpqDZO4W+11Xawu+oDaPnlRuMfgh6rt0bBocxhzcOQCkDQTcVpyJgaPeEcS1wEhtrEQwFvpAC8j8pPaeRDP9pBbjW975xOfuJBRjZ4PBdnIHCbOgcLYXdKe9vA0ztPKdHYlgBm43BN+YiEJky9ai1kjMKWBI8OmEIQKgKusbK4HQ4CUCnt9SGH5tR3Kt/D67E9epDF0DhCvxBOfuA1mKDQesU7bQWuA6wLkD3MxccOcbk/J1tfTWGnsZ3KZF1AQLBam3s0gmVx2kkpzMD8L90wWIlBUwFp6ct5JYRtHlnMgO4cOMoTruPmSovvUACzL1dxNOB+cwAsuwOGr9zNFGMLJj2f5Xh89QSTnmO0KpMjKOgKzS0gOrG49roMVqtgllw/+oHfF9ZzwyAkdH4x89SUguimyq666fJ+6mIlSG/yAkeV7G6EqW6tEeSSXQ8KUV2ro0AFHRQ/1XaJ1KF7iKUplPZUIy8AideDC5QQob6WyUYfUDSCjVhvxaOS00nMDI4T8LbcP56MXILczDsm5OHpUwBkt+XknOy5CpSRDuJ7TI7eSxjyKKb+ga0ndWAAnsB+gmAtj1N5uT4JwDSiruHy+G/8hG+5+WaO7bVzGq9912eJquWI5u678nQJhVIvMoZfT2ZU++IC5GYQE8Dud1Wr//6oTSZntMWrcStNI1yuzaxUSQlSUuBZAipRLrFZZ6MAUxa5J7HDxzgFwNbXtCR6mUNAAAAAElFTkSuQmCC"
+        },
+        "38": {
+          "id": 38,
+          "index": 5,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651667615567,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 37,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.google.com/search?client=firefox-b-d&q=pwa+on+windoes",
+          "title": "pwa on windows - Google Search",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFZUlEQVRYR71XDUyUdRj/vXdyBwfHyYeKimlEIYSDpCI/ckxWWNmX9qG2liaZpUtNc7SGZk6TOTdZthXoXE601mZbLWe6cIvBMChkls0MkJwf+I1yx3Fw9/b7v7738r7HwR2M9b89d++9/+f5Pb//8zz/LwlhNlmWY6k61+fzzZYkKYvPKRS7an6bvy3UaTSZTD/z+UfqiHchmxRKg6BpdFpEwAWUyFD6op82nZSDJLONNmcHsumXAAFsdLyZAKso5nAcB+oQo4eyk0Q2EKMzGEZQAjR6gPIdjTKG4jgIkVPEmkf5J7CvDwE6nkr5icqJgcreSxfQdfwouhvq0dPaDF/7LRFvmGIdME9MgSVrKqz5c2AeP6EPb2JeJeaTlJP6TgMBdeTVgc69ly/CWfYZuqoqFYcDNkmCdUYeopevgjlpnEFVJTFdHwmNADujKb8Ght197DA6Sksgu4OmsF8uUpQN9rUfwZr3RCAJkY5cf01oBLxe7w4Wy/t6bdfXX8G5+/Mhl0FkwVzYP9jQx57Fvd1sNq8XHQoBMdUof+qrXYz8TsnHQZ2PSEmF5dHpMI8dTwQJ3osX4KmrQU9T74yLfOZF2FcXKf3BZgd9pYtUKL0c/V6OfrFfURTbzcKFkLvcBlvhMIaglpzcoMQ89bW4s2MLrDPzELNi7YCRYxT2MAqFEkfuoFzWLzLO0vfg+qHWABCRngnH1lJIdv/iFxxfdjkh2aJDpo0+XfSZJAgsonaF30LubIa3KgOuyrHoqh+lvDbFJyCu/ABMjriQwINUWCAx/LsZ/qV+Q9+5T+Fr2qj89fw1Eq7DExGzaiNEQQ13YxrKJH7VMRQPa/n/vQDyzeOaL9/tZFie/RsYMWK4/YviPyEIXCeBeD96TxVXMU+b5kwa8xLMmQf6dZ6/1Rk2seIXrMjL6B2IsjCRgIcEIjQCldzwZJ8GappUBNN9nwwLgaV5FiyarrkSEfD8rwRenxmBxbMs2mD8BK4xAgn9pmD0fJinHByWCCzPt+DlXEMElBQYi7BhDuQb3HTU1mZJx+gZvyHCNLgibLnqQ2G5cf/YOM+KWZMNNXAiyDQs4TQsVtwf6UpGyZ0srHtkJZ5PyQ+72ITiN7XdKKv0GGwqVtiQ5OhdmpVpyDwspJZW5nLnObhrMrCzIwOH3JMUgPhIBw4U7EBC5MiwSHS4ZSz5shM3nL1b9z2JJuxdFhVo/6ogEKsuxVrvztrNqGhtNChPjkvBrrxiOCwDL8XdXqD4Wzfqmvmga28z/68Y8y+W4jH+zWgPV8M3/fqXnFex4MgauHqMm1GSLRHrc97C4+Nygkbi7K1WlPxSi5Y/nmJ/7zEyPlrCvneiEGUxhL+cm9Ey/3Z8P6Nwmoy0CjnSWoXi2tKgjibFjse0pIcwISaJu62EK53X0XDlNBqvnYHMj9mdClvbSkg9d/eOTfMjMTOtlxB9davbcZP+QLKdUVin97j/zPcoPbkvrLwHKkleO6La3sWSnCzD3Bd6LL5tHP2H4ll/JLMpa7MkZerBjv5bjS11XzAdgzuSmXmSL0x/DYVTnjNwE5cX+niMouQ38FCaSoUadt7dh9V22XUNuxr349j5avhCHUppkzP6QazOfgOicPWN2G3EFofSZv/7YMfybCoeDSQhDERxChJ1bafQ1H4eN7valUOyw2rHRPs4ZI+ajPzkaUiLu7dP2lTnBcQ1TK/+LiYiEoeoPGVIBRBgpIZdXEy0kfcbAX8HjaJYLJtotEY/OwZDSFQ7RZy2BY5xTqtA4VxOU9XL6UKC2MIhIM57lAo6LqFN00A2IQnoIiKWwKcDrucOtb+dv80i1Or1/DAdd4RD9j/w5nJL3xmBhgAAAABJRU5ErkJggg=="
+        },
+        "40": {
+          "id": 40,
+          "index": 6,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651743742459,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 41,
+          "cookieStoreId": "firefox-default",
+          "url": "https://medium.com/samsung-internet-dev/pwa-series-service-workers-the-basics-about-offline-a6e8f1d92dfd",
+          "title": "PWA Series: Service Workers, the basics about offline | by Laura Morinigo | Samsung Internet Developers | Medium",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAw1BMVEUAAAD///8AAADg4OAgICD9/f0QEBAAAAAAAAAAAACDg4NAQEBKSkonJycvLy/i4uK/v7+NjY0iIiLw8PCbm5sEBAR8fHzHx8dfX1+KiooODg77+/unp6dFRUUKCgo0NDSZmZkUFBQdHR1sbGyAgICrq6vBwcF+fn4GBgY/Pz8WFha5ubk8PDxUVFRoaGiRkZHPz8+jo6NQUFBYWFjn5+csLCxjY2O+vr6Ghobz8/M3NzdISEhvb29ra2tbW1vS0tIMDAxGC4H8AAAAQXRSTlP//+//////AICQ/////////////////////////////////////////////////////////////////////////8HZPr4AAAEISURBVHiczZPXesIwDIWPSEx2CGG0tOzZvfd+/6eqI9sQtx/hFt1IyvntWJINz69hq9UCD8F2uTAfFet5j2p5z6z+FIYfick6P3/la0GFLXNO71rUHgIT1+iuw7K01n2RFtEYaGdm/VonOn4D+hzluBEnCnjZ6ETfOFPBaijoUQGNMkDRQPksJ3pnPbJ06nWVb4yIDhm4soFFqE9zSvTJwMwGzjUgJDBjILaB5kr5h9T84ujVAuJL5Q9kOwaqimZZd1DXO00EXfxvFH0BGQcJHNKNQrIh5qbuBTBeroflPuvaY07n8gRT+TUtzXPUve33IjPladrZfUP2yXY+Pb8aCOAFVc/f934BUUYNncTTfMMAAAAASUVORK5CYII="
+        },
+        "41": {
+          "id": 41,
+          "index": 7,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651743535872,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 42,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.paypal.com/us/webapps/mpp/merchant-fees",
+          "title": "Fees | Merchant and Business | PayPal US",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAABgFBMVEUAAAAAL4YBIGkAnN4AMIgAJ4IAL4cBH2cAnd8ApOUAoeQwVp0AKYYAJ3cBGGIAMo0AMIsApOkBHmcAn+EBXKIALoQAp+4BJG4AK4IApevP7/8BGmUADCIAKn0ApunP7/kAmdkAZKkALH0AKIAAMIgAU6MAjtEAFUoAS2rQ5+cBJXIAAB8Am9wAcJ8AKioAHmQAjcoAWIYwU5QqVVUABRcAf38AETwANEgBQ4soP2r///8AP1gAgMMALYIAabUAI3UoUJwrNEYwS3wAfrQAHBwAXIspOVIADCI0QVUAl9kBUZgAJzQADiMwV54ADw8pRn8AGFIAaZUAecIABxcBNn0ADiEAGUcAic4AIiIAEjPT5O0Aj80AICkpTZMAnN4AKHkyRnAAYosAGRkAH2sAbpwARZgAOI0AJm4AIFnW5PEAldgATm8AldQAL4MAdroAHyoAHEwAapYqMUYwWKLQ5/MAc6UACyYAnd8Aaq8AM5IATXAAgbkAL4YAYowBKXXM7//5odeNAAAAgHRSTlMA/////////////8////////////3///7//zD/O///MO794fb5/P6CZQv/COujBrrPh6gGKwJpP/1lAUj96/rczx1zwQmbPjwn8f0nJMQRjpKK+iH+Nm77FkYd4R+59v9bfArIlvz8vpcT/G7c/v0YdJIkzRamQv39/2bD/YH/MqfzZ4gAAAFbSURBVHiczZBVd4NAGERJIQQoSbEQt6ZJ3d3d3d3d3e2v91sK7UJJ33pO7+vc3Z1Z4l+xcZ2tM1rVNWAjbPPOL/hk/o98K5dyfEM/XliFkTwaExxU65hFWMzRTlIGwqxFmEMCHXF/sh6hayzCAQi0N8ulI71V1pqFfQEEf5ZBaEZ9NeXFaAQVcRmCRxHjh7gwjUZQbkOQfGmZeceFO9SRKtIFyfPAkkwQF+q0lT49lhIcwwze4MKENiLkAUK+hhaWIblnU8lyGOE4HVIUJXGW5jiSJNUnPK9uhxHOVJRFyAzkYkUPLnQmkdDGQqIhqyfDphf6eFjpn0JXM2IgECjZOTf/YyMPFV7mZcjjk5vHzQvmmCDGQfDuHYEQvbRmGqs8Tft376GdWmCXN3XwgsCnUAWx3vaGq/5wONwbhQprK7aCRqkI+5bLMgvd8IR4mzknloKxWLDwF+GP+AC2dSijZo9R3wAAAABJRU5ErkJggg=="
+        },
+        "42": {
+          "id": 42,
+          "index": 8,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651743877880,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 51,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.monterail.com/blog/pwa-offline-dynamic-data",
+          "title": "Make Your PWA Work Offline Part 2 - Dynamic Data",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAgCAYAAADud3N8AAABrklEQVRIS73VMU7DMBQG4DhBTAilScqIxAEYmLgCF2DiHEhI7EhInIOJC/QKTAwcAImxadwUqhYS29hRHTnGdhynSbe0ab787z3bwBv5k06mBIxpMpB5o6EcHA3lYALnYJTyiiBLOTgqg4OjOnCwnppA1te9T28buPekHIzh/ICmQbyHfC9gKZWouJ5cNg4KBvTJWAbZtRLtC/KHiiBfm4OgBJLjqZd+yaDquh6kPil9rwwjCHMVUH+H8UOSL+4bPXVFaQ+P6JuvzSB5TfL0ks9IldQVBFt0Gm+yTyMoDFBvNNgUZ5Pt8qMNFAeoRl1S+kV5Hn3D9woME+wBAEyTK/5W9bQrin+Li5P18q0tIYfY8/+hXXoKELqKV9nMJiEvpRa1gQFG13GevexAREvq60oqgsqe8htMsI/Km2gFn21LqruvMb0mGGByG+fp0z4SatFGYowf6S5ytwNLWtLAtaRiMO15Kp6LizD5IQAcqk6QtpcQMWNSeRDkYbA5qFWYFaoaiL5gtTmY3kiV2CZ12zOt0C5LpQ20Tqpa7Koy24CdUXkDkffUwVAOu4Ls/392emqnyPfkRwAAAABJRU5ErkJggg=="
+        },
+        "51": {
+          "id": 51,
+          "index": 9,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651745340247,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 56,
+          "cookieStoreId": "firefox-default",
+          "url": "https://vuejs.org/guide/introduction.html#api-styles",
+          "title": "Introduction | Vue.js",
+          "favIconUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8c3R5bGU+CiAgICAuc3QwIHsgZmlsbDogIzQyQjg4MzsgfQogICAgLnN0MSB7IGZpbGw6ICMzNTQ5NUU7IH0KICA8L3N0eWxlPgogIDxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik03OC44LDEwTDY0LDM1LjRMNDkuMiwxMEgwbDY0LDExMGw2NC0xMTBDMTI4LDEwLDc4LjgsMTAsNzguOCwxMHoiIC8+CiAgPHBhdGggY2xhc3M9InN0MSIgZD0iTTc4LjgsMTBMNjQsMzUuNEw0OS4yLDEwSDI1LjZMNjQsNzZsMzguNC02Nkg3OC44eiIgLz4KPC9zdmc+Cg=="
+        },
+        "56": {
+          "id": 56,
+          "index": 10,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651745337327,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 51,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 51,
+          "url": "https://vuejs.org/tutorial/#step-1",
+          "title": "Tutorial | Vue.js",
+          "favIconUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8c3R5bGU+CiAgICAuc3QwIHsgZmlsbDogIzQyQjg4MzsgfQogICAgLnN0MSB7IGZpbGw6ICMzNTQ5NUU7IH0KICA8L3N0eWxlPgogIDxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik03OC44LDEwTDY0LDM1LjRMNDkuMiwxMEgwbDY0LDExMGw2NC0xMTBDMTI4LDEwLDc4LjgsMTAsNzguOCwxMHoiIC8+CiAgPHBhdGggY2xhc3M9InN0MSIgZD0iTTc4LjgsMTBMNjQsMzUuNEw0OS4yLDEwSDI1LjZMNjQsNzZsMzguNC02Nkg3OC44eiIgLz4KPC9zdmc+Cg=="
+        },
+        "57": {
+          "id": 57,
+          "index": 11,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2202,
+          "height": 1010,
+          "lastAccessed": 1651746132233,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 51,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 51,
+          "url": "https://vuejs.org/guide/quick-start.html#with-build-tools",
+          "title": "Quick Start | Vue.js",
+          "favIconUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij4KICA8c3R5bGU+CiAgICAuc3QwIHsgZmlsbDogIzQyQjg4MzsgfQogICAgLnN0MSB7IGZpbGw6ICMzNTQ5NUU7IH0KICA8L3N0eWxlPgogIDxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik03OC44LDEwTDY0LDM1LjRMNDkuMiwxMEgwbDY0LDExMGw2NC0xMTBDMTI4LDEwLDc4LjgsMTAsNzguOCwxMHoiIC8+CiAgPHBhdGggY2xhc3M9InN0MSIgZD0iTTc4LjgsMTBMNjQsMzUuNEw0OS4yLDEwSDI1LjZMNjQsNzZsMzguNC02Nkg3OC44eiIgLz4KPC9zdmc+Cg=="
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 0,
+        "left": 0,
+        "width": 2560,
+        "height": 1080,
+        "incognito": false,
+        "type": "normal",
+        "state": "normal",
+        "alwaysOnTop": false,
+        "title": "Quick Start | Vue.js — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 12,
+    "name": "PWA - Vue.js",
+    "date": 1651746132230,
+    "lastEditedTime": 1651746132230,
+    "tag": [],
+    "sessionStartTime": 1651656698217,
+    "id": "af691e92-aa4e-4efe-8951-c73c5c1dbfee"
+  },
+  {
+    "windows": {
+      "1": {
+        "1": {
+          "id": 1,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674298768281,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 3,
+          "cookieStoreId": "firefox-default",
+          "url": "https://support.mozilla.org/mk/questions/1374791",
+          "title": "Export all the bookmarks from a loads of profiles from a script | Firefox Support Forum | Mozilla Support"
+        },
+        "3": {
+          "id": 3,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674298743839,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 4,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 1,
+          "url": "https://support.mozilla.org/en-US/kb/customizing-firefox-using-autoconfig",
+          "title": "Customizing Firefox Using AutoConfig | Firefox for Enterprise Help"
+        },
+        "4": {
+          "id": 4,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674298743343,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 3,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 1,
+          "url": "https://support.mozilla.org/en-US/kb/customizing-firefox-using-policiesjson",
+          "title": "Customizing Firefox Using policies.json | Firefox for Enterprise Help"
+        },
+        "5": {
+          "id": 5,
+          "index": 3,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674298718577,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 6,
+          "cookieStoreId": "firefox-default",
+          "url": "https://wiki.mozilla.org/Extension_Manager:Install_Hooks",
+          "title": "Extension Manager:Install Hooks - MozillaWiki",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAAAD////T09Pb29sPDw/Ly8svLy/X19dPT0/6+vp4eHj9/f329vY9PT3GxsYpKSlCQkKzs7PJyckMDAzq6uqvr68BAQFiYmIeHh6FhYVzc3Onp6ccHBwJCQlXV1cjIyMxMTH4+PhlZWWIGD8RAAAAf0lEQVR4nO2QuRKEIBBEh71cdvG+7+P/P1J6LLTUxMDAwE76Aa+AGrpzPIOFeK2jRO90RFmghArcRfgJJJdc0nb/E3w2gomMDCRGqGwLGwVRyScpkY8Ol0feeunrrnF7rCEEvNZCA3ho8ADPvfA1An/ucsI8qElAs8BwjnDnQEZKdwSjSJVJowAAAABJRU5ErkJggg=="
+        },
+        "6": {
+          "id": 6,
+          "index": 4,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674257307877,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 3,
+          "cookieStoreId": "firefox-default",
+          "url": "https://github.com/MrOtherGuy/fx-autoconfig",
+          "title": "MrOtherGuy/fx-autoconfig: Load custom javascript in browser context",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdklEQVRYR71X7VHbQBDdk4zH/ApUEDEmGTMZO6YCcAWQCuJUgKkA0wFUEFJBnAowFSDsZFASOygVxPmFByxfds+SOEl3OhmY3Ix/WNq7fff27YcYLLGqr+v7YMEeA3CAsTXc2gy3u8D5hAP4jENv9H34peixeFb+cmo1x4aVI3S4j8bk1LgQyAQB9YKpfej77iRvQy6AzVqjyxkcFHWcdkRAkJGTkTc41oFQAnCc5lppdX4uUWy8tcHAnd1aLRUbGQDOqzdNu2SfP/bWOiDERjALWv7Pb65skwBAN7dX5zfP7TxyKEDcWhsyEzEAJe2cX+EmFwW4i4Yvl4kD5/AXgPfCjNmR9rqj68F29D8GQIIDBkeyE875h7E3PKNn1Vq9jUC6MRDOLxK2wJqMwYvQcSfeh6nLbPY5AZ7DMQqzS88EAJFqrHyZoZ7PWyPvaz/aTCzByr2TjmP8Hs+BaWUiU0xnl1j5Jgn2IRQCAN7ujDH2PkNxCsAyIZBBY0b9yaQo55+QpXYIoDEh+hRGcQge41xcThUCfE6CHF8P1pnWAEUUTC3HVMlMwMLMclUi5gF/x3T0ywI0OTG9JwFjiD9mGAY4ZZu1eh/VLaeJsMPKtf7U28sON7cayHpqYSYRAMrztwmVIv1jb1Co8ZhuH73XXNRlKmSYyz4C2Ch6eBE7HdNKAHQgVitjqy7iOLKpbjV8lRCZ7sX/0ACK4rdWhM+aBZpagEPLBTFwgtQcKBTaH3nD1jI062x18UcGTrWFiA6bAxz+uh6cPAWErgbQmaIQiUpVmfuqUiwcc+jmjVR54FQdNrKnrkmVNtuMsFXyOXeZBdieF/WB0pIx3kMwPQxLog2nAdBEZVn2Dl6ogz9HB5Dox17Qidtx1DKj0QnuV/xSJaAqmShSiOYKQUTjeOL86lYdBxC2VyRkM3634XsepeZiyXQJEPxOTC02lF05PBS38Y9hT+WEbl8q2ZdGAOmB5AHEQ1nGNBT9WgwUUG4v5MCxQi4mJN1S1nzZOMVgdiiVBDmbBdu66ecxACLhKYfS6EAxltt2P6IdmTjDuPrRe1NG6BgQzoNgN3csj0HQh4lKgGhg6hGatns1m9q7hT5MZGpVebw0AElwqrAZO144MXdQgUKIpjmhWmuEH6P4cQr3XUq1PNEaAchhgcp0zXQgAU6P5nkA/gEVLspa51VkdgAAAABJRU5ErkJggg=="
+        },
+        "7": {
+          "id": 7,
+          "index": 5,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674294553432,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 6,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.reddit.com/r/linuxadmin/comments/emcuqm/ansible_versus_bash_script/",
+          "title": "Ansible versus BASH script : linuxadmin",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAolBMVEX/RQAAAAD/QwD/SgD/RgD/RQD+RQD/RQD+RQD+RQD/RAD/SAX/////8u3/RgL/SAD/VQD/VRb+RQD/bjn/uqD/+vj/war/oH3/9/X/gVL/1MT/TQv/qYn/bDb/lG7/XSH/s5j/iV7/287/7eb/9vP/kGf/YSf/39T/o4H/t5z/59//7+n//Pr/5Nr/cTz/fk7/xbD/hFf/rI3/iFz/ybX/u6IhG1R9AAAANnRSTlP/AP8Yp5LjSfvu//////8HBv+w//////////////////////////////////////////////9Dj4ALAAAAuklEQVR4nGWP1xKCMBAAj6MEUlBEih3pzYr+/695wTfNTB52J5nbA8MwFsxyXNex2IKAhGl7MB/PNrUwVzMJAQJWpgFL+8vVMVkH3F4Cm9/z4BhMJDwGFgAi8sMZ0UcgdMCv68c7z7Pb6eQTuhj2hSqlTFV/CdHVYpDtJi03e6muJOjLWr6yMXreZSwILcApihqlmnSskJB5fNcW2zjeDvudHkthXBySrktCwYHC5nSkAn11+v9yP+t/AHV+DLR/t/OSAAAAAElFTkSuQmCC"
+        },
+        "28": {
+          "id": 28,
+          "index": 6,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674295651419,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 7,
+          "cookieStoreId": "firefox-default",
+          "url": "https://stackoverflow.com/questions/366980/what-are-the-differences-between-perl-python-awk-and-sed",
+          "title": "What are the differences between Perl, Python, AWK and sed? - Stack Overflow",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdElEQVRYR+2VS2gTYRDHZ77dNDHpwwpiQVBoo314sFoVexBFEcQHCAVfIIgK9SLFKra1pjattlUEpdbnwYKC+LroQVQUQTzowbZKfcWNVRRFEbVNmibZZMfZxEoJbTemkYC4OSzZ79v//OY/M98ipPjCFMeH/wBJdaB/f+4cCkttJMtbM2pfdMdT3qQBfGvJzUrzi7ccdDwBKKGs9LnZO7p+GEEkDUAP5HMWlBGErhABsvBNa5GyEtdAeDSIMQHQZZCCij3fvEd5PhjE48xrQEKH/l+gOGjd56r+awAe57QTAmAzCKiwOV6f1gNx9sLXkHedCFewDaShtC6j7tXlkSASdoAOF071edWHXO+caLZwflyObxuWf/RF+wEfAWA+B/DJpnCpubbn6XAQCQPoYt5DM3JgIHiR0174S7xbTpPLLHteuvqaphcIVXsIBFncET2aDedl7nJ9jYUYE0DE8nv18sD9C/sJtN1683HWfUKiLVaHcrXfaV/FW65Fn9MdW5F7WWxT/jHAQEPBBq5tn3nvyxt81wYz6m/MW01hbNfHUK89t8JRW05Glf9Tbw2PgTOyD8WR9H2uyqEu/BFApLYB0cO2ZhOiWyJq81u09gnVb3p1UX9znj0cEFcIqDgSD8QDK2jrvShaGWmpENpOW537TMIAgSZ7karSKSBcMCjCIB4J6Jwwya167al9kcX37v1Jdn3Trz1f+L4xJIF7vENxJ6UHggcKZ6tqcDtbup6IzJFs2Xb+3eJnrdY61y1/o32TpsFxXvlqBSrFeuVD0qeAmuwT/SEs1wi2McjkIQFcTHOMhPkJSvR9tO9C3D3gb8xdTiiyBWFHWv5r19BuptMlJu9nTxloVMFGzP8NIqAmvU5pGekQivZJnJe33n6Xty6OdjP2c8ZPJIROtr5DAug0TcrqxvLHauSLGJIrEMNLfBY5f2LVK09SAHimb/LxWsrznDl8LTHIa90awmM+FbskE9221LgVo/zidkAX0oc70FxgVzV1lhSC2RqKWfywhJcmxAaSJW2FxfHmRsIAZ89f4mOevzQb1xpCDrTkTlEDcgkSFAsMlwCJmdbMtJlY+eybkc6I4kYvGmU2uG6kEzcAN2HEkXiv9Holov3vAMSbeey+pDmQMoBEA8e+N9I0GTZhygCSFdhIx/CQMRIY63rKAX4CqDt8MPAaqKIAAAAASUVORK5CYII="
+        },
+        "31": {
+          "id": 31,
+          "index": 7,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674295772291,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 28,
+          "cookieStoreId": "firefox-default",
+          "url": "https://wiki.mozilla.org/WebExtensions/Hacking",
+          "title": "WebExtensions/Hacking - MozillaWiki",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAaVBMVEUAAAD////T09Pb29sPDw/Ly8svLy/X19dPT0/6+vp4eHj9/f329vY9PT3GxsYpKSlCQkKzs7PJyckMDAzq6uqvr68BAQFiYmIeHh6FhYVzc3Onp6ccHBwJCQlXV1cjIyMxMTH4+PhlZWWIGD8RAAAAf0lEQVR4nO2QuRKEIBBEh71cdvG+7+P/P1J6LLTUxMDAwE76Aa+AGrpzPIOFeK2jRO90RFmghArcRfgJJJdc0nb/E3w2gomMDCRGqGwLGwVRyScpkY8Ol0feeunrrnF7rCEEvNZCA3ho8ADPvfA1An/ucsI8qElAs8BwjnDnQEZKdwSjSJVJowAAAABJRU5ErkJggg=="
+        },
+        "34": {
+          "id": 34,
+          "index": 8,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674295827331,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 31,
+          "cookieStoreId": "firefox-default",
+          "url": "https://linux.die.net/man/1/rsync",
+          "title": "rsync(1) - Linux man page",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACgUlEQVRYR2PMYGb6z0BDIK2rw6DnF8CwvbUFqy2MtHaAZ3UNg1NeLkOpuPioA0ZDYDQEqBMCNknJDBrOLgyc/LxwA98/e8lwdfsmhvPrN2JYQrVsmLtlC4OcqSnD1/cfGd7eucXw/eNnsGUgh3AKizGIKsmD+Y9On2aY7OMDdwjFDlC1tWVIW7MGbPHGylKsvoTZBrMMxJ/g4szw9PIVBoocACpGa85fZLi2YzuKrwiV3GXHT4FDpM3YmMEiPoH8krDhxi1wcCMHKSHLYfIgR3AJCjCcXLyIPAekLF3OoO7ihLMMJ8YhIA/AQIOGGmm5YPqfvwyb6utx1mLEOMAw0J8hbfU6hpd37jKQ5ABCCYcYy2FqQB758vYNabUhKOi+vf/A0GVpRopdWNWCzBJXUWbIZGEmPgq6X75kODp3DsOGqmqKHUAoLWFtkICCbVZoEN48T6zLAtpaGayTU0iLApAD+hwdGG4fPkysPTjVEUpPOEOAWg4gKwRAaWBjZRXDkXlzKQ4BstIAyAEXN25hWJKWTLEDQCWioqkxabkAVoziKjxIcRXIMyBAUqsYVoJVKcgzvH/yhBT7UNSCatKi/QdIL4hApoBcjl63k+oSUCHELcgPrspJKopBFoFaPtGzZjG0GOqD63VSASj1u5dVMBydt4BB39+HtCiAWQZrBYHqdVKiAmb50rQ0Bl5JSfKqY+R6HZSKiS0ZQdnOODwMXpOSVRChB3fMrLkM1kkJDPdPn2W4vGUTw6VNG8CVFShUBGVkGEQUFRnsM7LA7QcQWJaRBi/GySqIsMU3qHkW1N7BIKyC2bCAJbQL61ZjVGCgHGUcEsEwJzqS+NqQ1ARHiXoAZihQsHza9L8AAAAASUVORK5CYII="
+        },
+        "35": {
+          "id": 35,
+          "index": 9,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 2219,
+          "height": 1010,
+          "lastAccessed": 1674298698394,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 34,
+          "cookieStoreId": "firefox-default",
+          "url": "https://stackoverflow.com/questions/9952000/using-rsync-include-and-exclude-options-to-include-directory-and-file-by-pattern",
+          "title": "linux - Using Rsync include and exclude options to include directory and file by pattern - Stack Overflow",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAADdElEQVRYR+2VS2gTYRDHZ77dNDHpwwpiQVBoo314sFoVexBFEcQHCAVfIIgK9SLFKra1pjattlUEpdbnwYKC+LroQVQUQTzowbZKfcWNVRRFEbVNmibZZMfZxEoJbTemkYC4OSzZ79v//OY/M98ipPjCFMeH/wBJdaB/f+4cCkttJMtbM2pfdMdT3qQBfGvJzUrzi7ccdDwBKKGs9LnZO7p+GEEkDUAP5HMWlBGErhABsvBNa5GyEtdAeDSIMQHQZZCCij3fvEd5PhjE48xrQEKH/l+gOGjd56r+awAe57QTAmAzCKiwOV6f1gNx9sLXkHedCFewDaShtC6j7tXlkSASdoAOF071edWHXO+caLZwflyObxuWf/RF+wEfAWA+B/DJpnCpubbn6XAQCQPoYt5DM3JgIHiR0174S7xbTpPLLHteuvqaphcIVXsIBFncET2aDedl7nJ9jYUYE0DE8nv18sD9C/sJtN1683HWfUKiLVaHcrXfaV/FW65Fn9MdW5F7WWxT/jHAQEPBBq5tn3nvyxt81wYz6m/MW01hbNfHUK89t8JRW05Glf9Tbw2PgTOyD8WR9H2uyqEu/BFApLYB0cO2ZhOiWyJq81u09gnVb3p1UX9znj0cEFcIqDgSD8QDK2jrvShaGWmpENpOW537TMIAgSZ7karSKSBcMCjCIB4J6Jwwya167al9kcX37v1Jdn3Trz1f+L4xJIF7vENxJ6UHggcKZ6tqcDtbup6IzJFs2Xb+3eJnrdY61y1/o32TpsFxXvlqBSrFeuVD0qeAmuwT/SEs1wi2McjkIQFcTHOMhPkJSvR9tO9C3D3gb8xdTiiyBWFHWv5r19BuptMlJu9nTxloVMFGzP8NIqAmvU5pGekQivZJnJe33n6Xty6OdjP2c8ZPJIROtr5DAug0TcrqxvLHauSLGJIrEMNLfBY5f2LVK09SAHimb/LxWsrznDl8LTHIa90awmM+FbskE9221LgVo/zidkAX0oc70FxgVzV1lhSC2RqKWfywhJcmxAaSJW2FxfHmRsIAZ89f4mOevzQb1xpCDrTkTlEDcgkSFAsMlwCJmdbMtJlY+eybkc6I4kYvGmU2uG6kEzcAN2HEkXiv9Holov3vAMSbeey+pDmQMoBEA8e+N9I0GTZhygCSFdhIx/CQMRIY63rKAX4CqDt8MPAaqKIAAAAASUVORK5CYII="
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 0,
+        "left": 0,
+        "width": 2560,
+        "height": 1080,
+        "incognito": false,
+        "type": "normal",
+        "state": "normal",
+        "alwaysOnTop": false,
+        "title": "Export all the bookmarks from a loads of profiles from a script | Firefox Support Forum | Mozilla Support — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 10,
+    "name": "Export all the bookmarks from a loads of profiles from a script | Firefox Support Forum | Mozilla Support",
+    "date": 1674298768281,
+    "lastEditedTime": 1674298768281,
+    "tag": [
+      "browserExit"
+    ],
+    "sessionStartTime": 1674256041493,
+    "id": "d0880559-1cbb-4f3a-b33b-298948cacdfb"
+  }
+]
