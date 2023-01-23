@@ -1,0 +1,9 @@
+- storage/
++ **/
++ extension-preferences.json
++ extension-settings.json
++ prefs.js
++ bookmark.html
++ extensions/***
++ chrome/***
+- *
