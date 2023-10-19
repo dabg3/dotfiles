@@ -1,0 +1,22 @@
+- defaults:
+    link:
+      relink: true
+
+- clean: ['~']
+    ~/.config:
+        recursive: true
+
+- create:
+    - ~/images/
+    - ~/.config
+    - ~/.vim/.undo
+    - ~/.vim/.swp
+    - ~/.vim/.backup
+
+- link:
+    ~/.xinitrc: .xinitrc
+    ~/.config/bspwm: .config/bspwm
+    ~/.config/sxhkd: .config/sxhkd
+    ~/.vim: .vim
+    ~/.vimrc: .vimrc
+    ~/images/wallpapers: wallpapers
