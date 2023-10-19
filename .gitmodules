@@ -4,3 +4,7 @@
 [submodule ".vim/pack/plugins/start/zig.vim"]
 	path = .vim/pack/plugins/start/zig.vim
 	url = https://github.com/ziglang/zig.vim
+[submodule "dotbot"]
+	path = dotbot
+	url = https://github.com/anishathalye/dotbot
+	ignore = dirty
