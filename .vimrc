@@ -9,5 +9,5 @@ set directory=~/.vim/.swp//
 syntax on
 
 set background=dark
-colorscheme hybrid
+colorscheme sourcerer
 

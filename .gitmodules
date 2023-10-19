@@ -1,0 +1,6 @@
+[submodule ".vim/colors/sourcerer.vim.repo"]
+	path = .vim/colors/sourcerer.vim.repo
+	url = https://github.com/xero/sourcerer.vim
+[submodule ".vim/pack/plugins/start/zig.vim"]
+	path = .vim/pack/plugins/start/zig.vim
+	url = https://github.com/ziglang/zig.vim
