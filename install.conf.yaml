@@ -7,17 +7,17 @@
     ~/.config:
         recursive: true
 
-- create:
-    - ~/images/
-    - ~/.config
-    - ~/.vim/.undo
-    - ~/.vim/.swp
-    - ~/.vim/.backup
-
 - link:
     ~/.xinitrc: .xinitrc
-    ~/.config/bspwm: .config/bspwm
-    ~/.config/sxhkd: .config/sxhkd
+    ~/.config/bspwm: 
+        path: .config/bspwm
+        create: true
+    ~/.config/sxhkd: 
+        path: .config/sxhkd
+        create: true
     ~/.vim: .vim
     ~/.vimrc: .vimrc
-    ~/images/wallpapers: wallpapers
+    ~/images/wallpapers: 
+        path: wallpapers
+        create: true
+
