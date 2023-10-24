@@ -20,4 +20,12 @@
     ~/images/wallpapers: 
         path: wallpapers
         create: true
+    
+- shell:
+    - 
+        command: . ./scripts/unpack.sh
+        description: Restoring Firefox profile
+        stderr: true
+    - [git clone https://github.com/jenv/jenv.git ~/.jenv, Cloning jEnv]
+
 
