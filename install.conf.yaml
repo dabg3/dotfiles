@@ -7,6 +7,9 @@
     ~/.config:
         recursive: true
 
+- create:
+    - ~/development
+
 - link:
     ~/.xinitrc: .xinitrc
     ~/.config/bspwm: 
@@ -15,6 +18,8 @@
     ~/.config/sxhkd: 
         path: .config/sxhkd
         create: true
+    ~/.zshrc: .zshrc
+    ~/.zprofile: .zprofile
     ~/.vim: .vim
     ~/.vimrc: .vimrc
     ~/images/wallpapers: 
@@ -27,5 +32,6 @@
         description: Restoring Firefox profile
         stderr: true
     - [git clone https://github.com/jenv/jenv.git ~/.jenv, Cloning jEnv]
+    - [git clone https://github.com/ohmyzsh/ohmyzsh.git ~/.oh-my-zsh, Cloning oh-my-zsh]
 
 
