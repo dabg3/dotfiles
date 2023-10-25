@@ -1,7 +1,4 @@
-# Path to your oh-my-zsh installation.
-# system-wide
-export ZSH="/usr/share/ohmyzsh"
-
+export ZSH=$HOME/.oh-my-zsh
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -98,7 +95,3 @@ source $ZSH/oh-my-zsh.sh
 
 export PATH="$HOME/.jenv/bin:$PATH"
 eval "$(jenv init -)"
-
-
-# Load Angular CLI autocompletion.
-source <(ng completion script)
