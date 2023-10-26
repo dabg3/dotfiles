@@ -12,6 +12,7 @@
 
 - link:
     ~/.xinitrc: .xinitrc
+    ~/.Xresources: .Xresources
     ~/.config/bspwm: 
         path: .config/bspwm
         create: true
