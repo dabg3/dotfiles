@@ -13,11 +13,8 @@
 - link:
     ~/.xinitrc: .xinitrc
     ~/.Xresources: .Xresources
-    ~/.config/bspwm: 
-        path: .config/bspwm
-        create: true
-    ~/.config/sxhkd: 
-        path: .config/sxhkd
+    ~/.config/awesome: 
+        path: .config/awesome
         create: true
     ~/.zshrc: .zshrc
     ~/.zprofile: .zprofile
