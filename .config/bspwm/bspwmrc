@@ -1,14 +1,19 @@
 #! /bin/sh
 
 sxhkd &
-# prevent netbeans white screen
+# prevent white screen on java apps
 wmname compiz
 
-# dual monitor TODO: avoid hardcoding monitor names i.e. HDMI1, eDPI1..not portable
-if [ -x $HOME/.local/bin/own_script_bspwm_laptop_dual_monitor ];then
-	own_script_bspwm_laptop_dual_monitor
-	bspc monitor HDMI1 -d I II III IV V
+monitors=$(xrandr --query | grep -c ' connected') 
+# If more than 2 monitors are connected it fallsback to using only the primary monitor
+if [ $monitors -eq 2 ];then
+	# TODO remove monitor names hardcodings, retrieve names based on 'connected'
+	# It works on my laptop, only display port is used for external monitor
+	bspc monitor DP1 -d I II III IV V
 	bspc monitor eDP1 -d VI VII VIII IX X
+	# TODO center eDP1 under DP1
+	# TODO remove resolution/refresh hardcodings
+    	xrandr --output eDP1 --mode 1920x1080 --output DP1 --mode 3440x1440 --rate 50 --above eDP1
 else
 	bspc monitor -d I II III IV V VI VII VIII IX X
 fi
