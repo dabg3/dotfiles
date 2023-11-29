@@ -7,13 +7,17 @@ wmname compiz
 monitors=$(xrandr --query | grep -c ' connected') 
 # If more than 2 monitors are connected it fallsback to using only the primary monitor
 if [ $monitors -eq 2 ];then
-	# TODO remove monitor names hardcodings, retrieve names based on 'connected'
-	# It works on my laptop, only display port is used for external monitor
-	bspc monitor DP1 -d I II III IV V
-	bspc monitor eDP1 -d VI VII VIII IX X
+	primary=$(xrandr --query | grep ' primary' | awk '{print $1}')
+	external=$(xrandr --query | grep ' connected' | awk '{print $1}' | sed -n "2p")
+	external_res=$(xrandr --query | grep -w $external -A1 | sed -n 2p | awk '{print $1}')
+	# TODO select highest refresh rate. Not always latest in xrandr line ($NF)
+	#external_rate=$(xrandr --query | grep -w $external -A1 | sed -n 2p | awk '{print $NF}')
+	bspc monitor $external -d I II III IV V
+	bspc monitor $primary -d VI VII VIII IX X
 	# TODO center eDP1 under DP1
-	# TODO remove resolution/refresh hardcodings
-    	xrandr --output eDP1 --mode 1920x1080 --output DP1 --mode 3440x1440 --rate 50 --above eDP1
+    	#xrandr --output eDP1 --mode 1920x1080 --output DP1 --mode 3440x1440 --rate 50 --above eDP1
+    	xrandr --output $primary --mode 1920x1080 --output $external --mode $external_res \
+		--above eDP1
 else
 	bspc monitor -d I II III IV V VI VII VIII IX X
 fi
