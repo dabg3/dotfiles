@@ -27,6 +27,7 @@
     ~/images/wallpapers: 
         path: wallpapers
         create: true
+    ~/.jq: .jq
     
 - shell:
     - 
