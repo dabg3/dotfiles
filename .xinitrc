@@ -4,7 +4,7 @@
 #
 # Executed by startx (run your window manager from here)
 run() {
-	exec bspwm
+	dbus-launch --exit-with-session bspwm
 }
 
 debug() {
