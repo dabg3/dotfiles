@@ -4,6 +4,11 @@
 #
 # Executed by startx (run your window manager from here)
 run() {
+	picom -b
+	xrdb merge ~/.Xresources
+	# same config for both monitors - brightness, temperature
+	redshift -m randr:crtc=0 -c ~/.config/redshift/redshift.conf &
+	redshift -m randr:crtc=1 -c ~/.config/redshift/redshift.conf &
 	dbus-launch --exit-with-session bspwm
 }
 
