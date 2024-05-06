@@ -20,6 +20,9 @@
     ~/.config/sxhkd: 
         path: .config/sxhkd
         create: true
+    ~/.config/redshift
+        path: .config/redshift
+        create: true
     ~/.zshrc: .zshrc
     ~/.zprofile: .zprofile
     ~/.vim: .vim
