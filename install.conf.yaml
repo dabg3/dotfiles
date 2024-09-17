@@ -20,7 +20,7 @@
     ~/.config/sxhkd: 
         path: .config/sxhkd
         create: true
-    ~/.config/redshift
+    ~/.config/redshift:
         path: .config/redshift
         create: true
     ~/.zshrc: .zshrc
